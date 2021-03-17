@@ -1,4 +1,3 @@
 Please read "fraud_detection.pdf" for explanation of this project.
 
-The data file ("creditcard.csv") is too large to upload, so please download (link is in the code) separately if you want to run this project.
-
+The original data file ("creditcard.csv") is too large to upload, so I uploaded 50% sampled one ("creditcard_reduced.csv") for demonstration on GitHub. 
