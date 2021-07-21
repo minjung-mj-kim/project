@@ -63,12 +63,15 @@
 
 
     - Integrating the findings from the above, build a better performing model and test.
+    
+    - (Optional, for fun) Try to generate and test on (probably) non-existing type of news, such as true events written with fake news vibe, or wrong news with professional tone.
 
 
 # Known characteristics of fake news
 
 
-I summarized the judging criteria about credibility of news into three categories.
+I summarized the characteristics of fake news into three categories.
+Those characteristics come from the well known judging criteria and my personal impression (1.3., 2.1., and 2.3.).
 Among the below, utilizable features are tested and used in this analysis.
 
 1. Information-wise
@@ -85,14 +88,13 @@ Among the below, utilizable features are tested and used in this analysis.
     3. Not valuable
     
         1. Not impactful/important socially
-        2. Not a rare event
-        3. Nothing to do with the area where news provider cover
+        2. Not a story around the target reader
         
 2. Tone
 
     1. Doesn't sounds professional
     
-        1. Contain slangs
+        1. Contain improper words
         2. Vocabularies are not specific
     
     2. Hateful
@@ -100,10 +102,12 @@ Among the below, utilizable features are tested and used in this analysis.
         1. Enhance bias or discrimination
         2. Provocative
         
-    3. Urgent and Agitative
+    3. Urgent and Agitative, make the target readers to ...
     
-        1. Make readers to spread this news as much as you can
-        2. Make reader to act promptly
+        1. Believe that they are the persecuted week
+        2. Believe that they are excluded and unfairly treated
+        3. Spread this news as much as you can because this news seemed to be censored
+        4. Act promptly against the powerful evil to save themselves from the disaster
         
     4. Joke (or pretend to be a joke)
     
@@ -121,13 +125,12 @@ Among the below, utilizable features are tested and used in this analysis.
         2. The author is fake
         3. The author is not a reliable person/organization
         
-    2. Media/Publishing organizatio
+    2. Media/Publishing organization
     
         1. The media is not reliable of fishy
+        2. The organization is biased
 
     3. Supporting evidence
     
         1. The evidence that support the news is not adequate
         2. Not provided by a relavant expert or organization
-
-
