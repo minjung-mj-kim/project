@@ -1,3 +1,13 @@
+# Data
+
+The dataset is provide by Information Security and Object Technology (ISOT) research lab, University of Victoria.
+https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
+
+The dataset contains **21k real news** scrapped from "Reuters.com" and **24k fake news** collected from different sources, where all of them are flagged as unreliable by Polififact (a fact-checking organization in the USA) and Wikipedia. The coverage of topics are various, yet mostly about politics.
+
+Provided dataset are **True.csv** (reuter news) and **Fake.csv** (unreliable news), where both contain **title, text, subject, and publication date** columns.
+
+
 # Strategy
 
 1. Feature engineering
@@ -64,7 +74,14 @@
 
     - Integrating the findings from the above, build a better performing model and test.
     
-    - (Optional, for fun) Try to generate and test on (probably) non-existing type of news, such as true events written with fake news vibe, or wrong news with professional tone.
+    
+4. Dataset expansion and model improvement
+    
+    
+    - Try to generate and test on (probably) non-existing type of news, such as true events written with fake news vibe, or wrong news with professional tone.
+    
+    - Test and upgrade this model by including more dataset and features (using other research data, kaggle, web scrapping, etc).
+    
 
 
 # Known characteristics of fake news
