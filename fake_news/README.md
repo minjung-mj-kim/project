@@ -1,3 +1,45 @@
+# Flow
+
+1. Test of simple naive bayse and LSTM models -> they work
+    - simple_NaiveBayse.ipynb
+    - simple_LSTM.ipynb
+
+2. EDA and check preprocess items and potential bias
+    - eda_raw.ipynb
+
+3. Preprocess text data
+    - organize_data.ipynb
+
+
+4. EDA preprocessed data
+    
+5. Modeling
+
+
+
+
+
+
+
+# To do, if have more time
+
+- LSTM with grammar tags
+    - Grammar structures between real and fake news are definetly different, but hard to describe how it is. LSTM should be proper to identify grammar sequence.
+
+- Take average of embedding vectors then Feedforward NN
+    - Everaged embedding migh have prominent feature component that involves fake news
+
+- CNN with title?
+    - Is there "image" thing in title in order to catch attention of real/fake news readers?
+
+- Group news with tf-idf, then compare real and fake?
+    - Remove potential bias about topics in dataset
+
+
+# =========== OLD ==================
+
+
+
 # Data
 
 The dataset is provide by Information Security and Object Technology (ISOT) research lab, University of Victoria.
@@ -14,23 +56,15 @@ Provided dataset are **True.csv** (reuter news) and **Fake.csv** (unreliable new
 
     1. Data cleaning
 
-        - Text preprocessing (noise removal, lemmatize, etc)
+        - Text preprocessing
 
         - Part of speech tagging
 
     2. Exploration
-    
-        - Get average, distribution, outlier of potential features
-       
+           
         - Statistics for the whole corpus and/or per article
 
         - Items to compare between Real and Fake news 
-    
-            - Number of vocavularies in the corpus/per article
-    
-            - Most frequent words and grammar in the corpus
-    
-            - Number of inappropriate keywords (agitative, hateful, derogative tones; clickbait; slang) per title/artices
     
         - Find keywords of high classifying power
         
@@ -54,19 +88,13 @@ Provided dataset are **True.csv** (reuter news) and **Fake.csv** (unreliable new
 
     - Models to test
     
-        - Whole text/grammar: CNN, RNN (LSTM), Naive bayes
-        
-        - Keyword/grammar counts: MLP, SVM, kNN
-        
+        - Text/grammar: Naive bayes, RNN (LSTM), (Feed forward NN, CNN)
+                
     - For each model, include followings:
     
-        - Score(s)
+        - Performance score(s)
         
-        - True/False classification cases analysis
-        
-        - Improvement idea
-        
-        - Take away for the final model
+        - Error analysis
         
 
 3. Finial modeling and test
@@ -76,9 +104,6 @@ Provided dataset are **True.csv** (reuter news) and **Fake.csv** (unreliable new
     
     
 4. Dataset expansion and model improvement
-    
-    
-    - Try to generate and test on (probably) non-existing type of news, such as true events written with fake news vibe, or wrong news with professional tone.
     
     - Test and upgrade this model by including more dataset and features (using other research data, kaggle, web scrapping, etc).
     
