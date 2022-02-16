@@ -6,10 +6,12 @@
         - Too good accuracy. Potential biased feature(s) in this dataset is suspected.
     - simple_LSTM.ipynb
         - LSTM model with pretrained embeddings of title tokens. 
+        - Some words might not have corresponding pretrained embeddings
         - Better accuracy with trainable embedding layer.
         - Sign of overfit.
     - simple_FNN.ipynb
         - Feedforward NN model with averaged pretrained embedding vectors of title. 
+        - Some words might not have corresponding pretrained embeddings
         - Better accuracy with trainable embedding layer.
         - Sign of overfit.
 
@@ -46,10 +48,14 @@
         - Consider taging or removing **click bait words** (e.g. "[Watch]", "[Image]", "[Details]) to avoid bias
         - Tag or remove words with **"\*"** charactor (probably a slang, which is not used in real news)
         
+3. Text preprocessing and EDA
+    - organize_text_data.ipynb
+        - Cleaned and wrangled text data
+        - Tag POS and lemmatize
+        - Prepared for both Naybe Bayes and Word Embedding models
+    
         
 # To do items
-- Preprocessings
-- EDA with processed data
-- Test simple models with cleaned and organized data
+- Test simple models with organized data
 - Error analysis of simple models
 - Gather findings to build an integrated model
