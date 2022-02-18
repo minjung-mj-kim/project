@@ -15,6 +15,7 @@ import tensorflow.keras.layers as tfl
 
 from matplotlib import pyplot as plt
 
+
 def split_dataframe_class(df, class_column='label'):
     
     # drop invalid entries
@@ -153,7 +154,7 @@ def get_pretrained_embedding(): # Get pretrained word embedding info
     index_to_word = {} 
     word_to_vec_map = {}
     
-    with open('glove.6B.50d.txt', 'r') as f:
+    with open('data/glove.6B.50d.txt', 'r') as f:
         words = set()
         for line in f:
             line = line.strip().split()
@@ -203,3 +204,13 @@ def sentences_to_indices(X, word_to_index, max_len):
                 
     return X_indices
 
+def dataframe_to_arrays(df, word_to_index, max_len, Xname='title', Yname='label'):
+    
+    #X = df.title.str.replace(r'[^\s\w]', '',regex=True).to_numpy()
+    index = df.index.to_numpy() 
+    X = df[Xname].to_numpy()
+    Y = df[Yname].to_numpy()
+    X_indices = sentences_to_indices(X, word_to_index, max_len)
+    Y_oh = pd.get_dummies(df[Yname]).to_numpy()
+    
+    return index, X, X_indices, Y, Y_oh
