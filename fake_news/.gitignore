@@ -1,9 +1,5 @@
 .ipynb_checkpoints
 backup*
-*_old.*
 old_*
-test.csv
-train.csv
-
-df0.csv
-df1.csv
+data*
+__pycache__*
