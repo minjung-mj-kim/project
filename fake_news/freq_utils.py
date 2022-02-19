@@ -85,7 +85,8 @@ def train_dev_test_split(df_list, m, class_column='label', class_balance=True, r
         # Sample equaly from each class then concat
         concat_df_list = [df_list[i].sample(n=m_each_class, random_state=rand_state) for i in range(n_class)]
         
-        df = pd.concat(concat_df_list)
+        # VERY IMPORTANT TO RESET INDEX
+        df = pd.concat(concat_df_list).reset_index(drop=True)
 
         
 
@@ -209,7 +210,7 @@ def dataframe_to_arrays(df, word_to_index, max_len, Xname='title', Yname='label'
     #X = df.title.str.replace(r'[^\s\w]', '',regex=True).to_numpy()
     index = df.index.to_numpy() 
     X = df[Xname].to_numpy()
-    Y = df[Yname].to_numpy()
+    Y = df[Yname] #.to_numpy() -> commented out to keep dataframe index
     X_indices = sentences_to_indices(X, word_to_index, max_len)
     Y_oh = pd.get_dummies(df[Yname]).to_numpy()
     
