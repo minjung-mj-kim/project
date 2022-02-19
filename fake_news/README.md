@@ -54,12 +54,12 @@
         - Tag POS and lemmatize
         - Prepared for both Naybe Bayes and Word Embedding models
     
-
 4. fake_news_detection.ipynb
-    - Combined all simple models
+    - Added variations to simple models
+    - Ran all models with various organized data
+    - Saved test results for error analysis
     
 
 # To do items
-- Test simple models with organized data
 - Error analysis of simple models
 - Gather findings to build an integrated model
