@@ -20,7 +20,7 @@
         - Real news title is **shorter** than fake news.
         - Real news have **informative and concise** tone.
         - Fake news sounds **gossip, emotilnal, redundunt,** and awkward in **grammar structure**
-        - Fake news contains **click bite** (e.g. "DETAILS", "VIDEO", full name of a person, exclamation).
+        - Fake news contains **click bait** (e.g. "DETAILS", "VIDEO", full name of a person, exclamation).
         - **First names** occurs in title frequently in fake news, which is not preferred in real news to be concise. 
         - Fake news has irregular text format:
             - Extra **upper cases**, probably to catch attention.
@@ -53,12 +53,26 @@
         - Cleaned and wrangled text data
         - Tag POS and lemmatize
         - Prepared for both Naybe Bayes and Word Embedding models
+        
+4. Make and test a manual model
+    - sample_Manual.ipynb
+        - To verify machine learning models are better than manual data selection
+        - Utilize findings from EDA for fake news detection
+            - Long title size
+            - Too many special characters
+            - Contains click bait
+            - Contains first name
+            - Contains slang
+        - Overall bad accuracy (50%, not better than random selection), but good precision.
     
-4. fake_news_detection.ipynb
-    - Added variations to simple models
-    - Ran all models with various organized data
-    - Saved test results for error analysis
-    
+5. Test all machine learning models
+    - models_evaluation.ipynb
+        - Added variations to simple models
+        - Ran all models with various organized data
+        - Saved test results for error analysis
+
+
+
 
 # To do items
 - Error analysis of simple models
