@@ -1,4 +1,4 @@
-# Progress
+# Explanation of files (also, Progress tracking)
 
 1. Test simple models
     - simple_NaiveBayse.ipynb 
@@ -72,8 +72,13 @@
         - Saved test results for error analysis
 
 
+6. Combine models for better performance
+    - final_model.ipynb
+        - Compare results and correlation of each model
+        - Build a final model with bagging method
+        - Final model showed 99% accuracy/precision/recall, better than any of single simple model
+        
 
-
-# To do items
-- Error analysis of simple models
-- Gather findings to build an integrated model
+7. Etc
+    - freq_utils.py: frequently used function
+    - data: contains all data files
