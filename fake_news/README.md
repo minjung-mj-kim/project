@@ -75,7 +75,7 @@
 6. Combine models for better performance
     - final_model.ipynb
         - Compare results and correlation of each model
-        - Build a final model with bagging method
+        - Build a final model with vote
         - Final model showed 99% accuracy/precision/recall, better than any of single simple model
         
 
