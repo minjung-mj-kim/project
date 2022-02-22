@@ -1,8 +1,8 @@
 # Explanation of files (also, Progress tracking)
 
 1. Test simple models
-    - simple_NaiveBayse.ipynb 
-        - Naive bayse model with news title tokens. 
+    - simple_NaiveBayes.ipynb 
+        - Naive bayes model with news title tokens. 
         - Too good accuracy. Potential biased feature(s) in this dataset is suspected.
     - simple_LSTM.ipynb
         - LSTM model with pretrained embeddings of title tokens. 
