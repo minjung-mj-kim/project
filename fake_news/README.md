@@ -1,4 +1,4 @@
-# Explanation of files (also, Progress tracking)
+# Explanation of files (also, progress tracking)
 
 1. Test simple models
     - simple_NaiveBayes.ipynb 
