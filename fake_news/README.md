@@ -1,4 +1,36 @@
-# Explanation of files (also, progress tracking)
+
+# Fake news classification
+
+## Dataset
+
+
+The dataset is provide by Information Security and Object Technology (ISOT) research lab, University of Victoria.
+https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
+
+The dataset contains 21k of real news scrapped from "Reuters.com" and 24k of fake news collected from different sources, where all of them are flagged as unreliable by Polififact (a fact-checking organization in the USA) and Wikipedia. The coverage of topics are various, yet mostly about politics.
+
+Provided dataset are **True.csv** (reuter news) and **Fake.csv** (unreliable news), where **title** feature was used for this model. 20k of randomly selected news were used for both true and fake news, respectively.
+
+
+## Strategy
+
+1. Develop simple models quickly with raw text data to estimate feasibility.
+    - Tested model
+        - Machine learning models
+            - Naive Bayse
+            - LSTM with word embeddings
+            - Feedforward neural network (FNN) with averaged word embedding vectors of each title
+            - Results: about 90% or higher accuracy with balanced dataset
+        - Manual model to set a baseline of learning models
+            - Find distinctive features of fake/real news, employ them to make a news selection logic
+            - Results: terrible accuracy (not better than 50% random selection), but good precision, due to distinctive characteristics of fake news
+
+
+
+
+
+
+# Explanation of files
 
 1. Test simple models
     - simple_NaiveBayes.ipynb 
@@ -8,12 +40,10 @@
         - LSTM model with pretrained embeddings of title tokens. 
         - Some words might not have corresponding pretrained embeddings
         - Better accuracy with trainable embedding layer.
-        - Sign of overfit.
     - simple_FNN.ipynb
         - Feedforward NN model with averaged pretrained embedding vectors of title. 
         - Some words might not have corresponding pretrained embeddings
         - Better accuracy with trainable embedding layer.
-        - Sign of overfit.
 
 2. EDA of raw data
     - Findings from selected examples
