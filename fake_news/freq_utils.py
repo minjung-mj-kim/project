@@ -144,7 +144,7 @@ def pretrained_embedding_layer(word_to_vec_map, word_to_index, trainable = False
     # Build the embedding layer before setting the weights
     embedding_layer.build((None,))
     
-    # Set the weights of the embedding layer to the embedding matrix. Your layer is now pretrained.
+    # Set the weight with pretrained embedding matrix 
     embedding_layer.set_weights([emb_matrix])
     
     return embedding_layer
