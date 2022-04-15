@@ -1,6 +1,9 @@
 
 # Fake news classification
 
+To read article about it, go to my blog.
+https://minjung-mj-kim.github.io/projects/fakenews/
+
 ## Dataset
 
 - Source
