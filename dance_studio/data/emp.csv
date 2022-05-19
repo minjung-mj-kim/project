@@ -1,0 +1,498 @@
+area,area_name,occ_code,occ_title,tot_emp,emp_prse,h_mean,a_mean,mean_prse,h_pct10,h_pct25,h_median,h_pct75,h_pct90,a_pct10,a_pct25,a_median,a_pct75,a_pct90,year,occ
+All,U.S. all,00-0000,All Occupations,127567910,0.1,         17.41,         36210,           0.2,          7.04,          9.08,         13.53,         21.17,         31.97,         14640,         18880,         28140,         44040,         66500,2003,all_jobs
+All,U.S. all,27-2031,Dancers,15390,10.7,         12.76,         26540,           3.4,          6.07,          7.01,          9.45,         16.11,         24.98,         12630,         14580,         19650,         33500,         51950,2003,dancer
+All,U.S. all,27-2032,Choreographers,14810,5.2,         17.16,         35700,           3.0,          6.83,          9.58,         14.92,         22.08,         29.34,         14210,         19930,         31030,         45930,         61030,2003,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,177790,2.4,         14.71,         30590,           1.3,          6.85,          8.16,         11.78,         18.75,         26.87,         14250,         16960,         24510,         39000,         55890,2003,fit_trainer
+All,U.S. all,39-9032,Recreation workers,265640,1.8,         10.12,         21040,           0.5,          6.24,          7.24,          8.94,         11.73,         16.07,         12970,         15060,         18600,         24390,         33420,2003,rec_worker
+All,U.S. all,00-0000,All Occupations,128127360,0.1,         17.80,         37020,           0.2,          7.16,          9.28,         13.83,         21.66,         32.94,         14880,         19300,         28770,         45060,         68510,2004,all_jobs
+All,U.S. all,27-2031,Dancers,14880,5.9,         12.15,,           3.0,          5.87,          6.71,          8.54,         15.62,         21.59,,,,,,2004,dancer
+All,U.S. all,27-2032,Choreographers,15360,4.5,         18.39,         38250,           2.6,          7.20,         10.35,         16.19,         23.53,         32.79,         14980,         21530,         33670,         48940,         68190,2004,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,182280,1.9,         14.98,         31170,           1.3,          6.99,          8.35,         12.25,         19.24,         26.71,         14530,         17380,         25470,         40030,         55560,2004,fit_trainer
+All,U.S. all,39-9032,Recreation workers,266520,1.4,         10.43,         21690,           0.5,          6.38,          7.52,          9.29,         12.20,         16.48,         13260,         15640,         19320,         25380,         34280,2004,rec_worker
+All,U.S. all,00-0000,All Occupations,     130307840,       0.1,         18.21,         37870,           0.1,          7.26,          9.46,         14.15,         22.20,         33.74,         15110,         19680,         29430,         46180,         70180,2005,all_jobs
+All,U.S. all,27-2031,Dancers,         16240,       6.2,         13.22,,           3.5,          6.16,          6.92,          8.92,         16.72,         24.40,,,,,,2005,dancer
+All,U.S. all,27-2032,Choreographers,         16150,       5.9,         18.26,         37970,           3.2,          7.44,          9.97,         15.84,         23.11,         33.21,         15480,         20730,         32950,         48070,         69070,2005,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,        189220,       1.6,         14.93,         31060,           0.9,          6.99,          8.46,         12.43,         19.36,         26.45,         14540,         17600,         25840,         40260,         55020,2005,fit_trainer
+All,U.S. all,39-9032,Recreation workers,        264840,       1.3,         10.78,         22420,           0.5,          6.64,          7.77,          9.67,         12.66,         16.84,         13810,         16170,         20110,         26330,         35030,2005,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5516070,0.4,20.04,41680,0.7,7.84,9.57,15.23,25.11,38.49,16310,19910,31680,52230,80070,2005,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,1560,32.9,8.19,,3.0,7.17,7.47,7.96,8.44,8.78,,,,,,2005,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,670,30.7,19.76,41110,10.9,8.29,14.58,19.42,24.43,31.02,17240,30330,40390,50820,64520,2005,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness trainers and aerobics instructors,8870,7.4,17.54,36490,3.6,7.63,8.75,17.01,23.41,30.46,15880,18190,35380,48690,63350,2005,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation workers,12190,5.3,10.77,22410,1.2,7.58,8.46,10.00,12.11,15.19,15770,17610,20800,25200,31600,2005,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1960840,0.6,24.10,50120,0.8,8.69,11.99,19.42,30.86,45.37,18070,24940,40400,64190,94360,2005,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,,,12.42,,8.8,7.40,8.52,11.05,14.82,19.94,,,,,,2005,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,600,37.6,21.58,44890,15.0,14.27,15.96,19.06,23.66,37.40,29690,33200,39640,49220,77790,2005,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness trainers and aerobics instructors,4060,11.2,24.62,51220,7.5,8.85,11.02,22.77,35.41,45.66,18410,22920,47370,73660,94980,2005,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation workers,6200,19.7,13.10,27260,3.5,7.90,8.96,11.58,15.55,21.48,16420,18630,24080,32350,44670,2005,rec_worker
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",00-0000,All Occupations,4354470,0.6,19.74,41070,0.9,7.25,9.87,15.45,25.04,36.71,15090,20540,32140,52080,76350,2005,all_jobs
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",27-2031,Dancers,370,49.7,15.26,,16.2,10.62,11.59,12.83,17.37,25.34,,,,,,2005,dancer
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",27-2032,Choreographers,260,41.3,21.33,44370,11.9,11.49,12.42,14.11,31.63,38.66,23890,25840,29350,65780,80420,2005,choreo
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",39-9031,Fitness trainers and aerobics instructors,7140,15.4,16.82,34990,5.2,7.27,9.30,14.32,21.34,28.27,15120,19340,29780,44390,58790,2005,fit_trainer
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",39-9032,Recreation workers,8180,8.1,10.77,22410,2.2,6.82,7.63,9.47,11.40,17.36,14190,15860,19700,23720,36110,2005,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8110630,0.2,22.69,47200,0.8,7.89,11.05,17.55,28.24,43.56,16410,22980,36510,58740,90600,2005,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1350,23.6,19.62,,7.3,9.12,11.03,18.57,21.28,31.18,,,,,,2005,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,1160,28.0,34.26,71250,12.5,13.20,19.42,27.90,50.94,56.80,27460,40390,58040,105960,118150,2005,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness trainers and aerobics instructors,14830,9.9,20.32,42260,2.6,9.23,12.58,18.85,25.62,34.29,19210,26160,39210,53290,71320,2005,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation workers,20440,5.5,11.66,24260,1.5,6.77,8.10,10.37,13.96,18.16,14090,16860,21570,29030,37770,2005,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1566280,0.7,21.60,44920,1.9,8.77,11.73,17.60,27.01,39.32,18250,24400,36600,56190,81790,2005,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,310,27.4,24.11,50140,7.1,13.41,16.70,22.50,30.50,37.66,27880,34730,46790,63430,78320,2005,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness trainers and aerobics instructors,,,17.79,37000,7.3,8.84,10.56,15.88,22.22,31.76,18380,21970,33030,46220,66070,2005,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation workers,,,12.17,25320,4.5,8.14,9.22,10.75,14.79,18.52,16940,19180,22360,30770,38520,2005,rec_worker
+All,U.S. all,00-0000,All Occupations,     132604980,       0.1,         18.84,         39190,           0.1,          7.45,          9.75,         14.61,         22.99,         35.08,         15500,         20270,         30400,         47820,         72960,2006,all_jobs
+All,U.S. all,27-2031,Dancers,         16010,       8.0,         13.86,,           3.7,          6.62,          7.31,          9.55,         17.50,         25.75,,,,,,2006,dancer
+All,U.S. all,27-2032,Choreographers,         16340,       6.2,         18.42,         38320,           2.6,          7.55,         10.53,         16.67,         23.95,         30.80,         15710,         21910,         34660,         49810,         64070,2006,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,        205970,       1.5,         15.24,         31710,           0.9,          7.15,          8.66,         12.46,         19.73,         27.29,         14880,         18010,         25910,         41040,         56750,2006,fit_trainer
+All,U.S. all,39-9032,Recreation workers,        273280,       1.1,         11.03,         22950,           0.4,          6.80,          7.86,          9.84,         13.00,         17.20,         14150,         16360,         20470,         27050,         35780,2006,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5631300,0.4,20.89,43440,0.7,7.94,9.91,15.84,26.11,40.27,16510,20610,32950,54300,83760,2006,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,1580,44.0,8.78,,5.5,7.34,7.67,8.26,8.84,10.94,,,,,,2006,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,1200,27.3,20.91,43500,7.8,8.81,14.77,20.76,26.17,31.73,18330,30730,43180,54430,65990,2006,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness trainers and aerobics instructors,10880,6.1,18.22,37890,3.2,7.92,9.25,17.90,24.33,31.01,16470,19240,37240,50600,64500,2006,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation workers,12320,5.7,10.49,21830,1.4,7.49,8.34,9.87,11.72,14.53,15580,17340,20520,24380,30220,2006,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1993170,0.6,25.11,52230,0.6,8.92,12.42,20.16,32.04,47.98,18550,25840,41930,66650,99790,2006,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,,,15.14,,14.8,7.18,8.87,12.28,18.16,27.55,,,,,,2006,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,420,45.9,22.25,46290,13.3,14.03,15.83,19.26,26.80,39.29,29190,32930,40060,55750,81720,2006,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness trainers and aerobics instructors,4860,7.7,23.21,48270,8.6,8.93,11.42,20.19,32.20,44.62,18570,23740,41990,66980,92810,2006,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation workers,5240,7.4,12.89,26800,1.8,7.93,9.34,12.08,15.40,18.98,16480,19420,25120,32030,39480,2006,rec_worker
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",00-0000,All Occupations,4413800,0.4,20.62,42880,0.9,7.48,10.13,15.97,26.19,38.50,15550,21080,33220,54480,80080,2006,all_jobs
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",27-2031,Dancers,,,11.80,,14.4,6.91,7.37,9.43,12.67,23.38,,,,,,2006,dancer
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",27-2032,Choreographers,170,41.2,20.99,43670,15.7,8.59,11.19,19.24,29.97,40.55,17870,23270,40020,62330,84350,2006,choreo
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",39-9031,Fitness trainers and aerobics instructors,8210,11.8,16.92,35190,3.3,6.93,8.49,12.05,23.39,32.26,14410,17670,25060,48660,67090,2006,fit_trainer
+Chicago,"Chicago-Naperville-Joilet, IL-IN-WI",39-9032,Recreation workers,10550,7.0,11.53,23980,3.3,6.94,7.55,9.46,13.30,20.67,14430,15690,19680,27670,43000,2006,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8197010,0.2,23.55,48980,0.8,8.20,11.42,18.17,29.47,45.36,17050,23740,37780,61290,94350,2006,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,800,33.9,28.41,59100,15.0,12.55,16.51,24.74,29.43,57.50,26100,34340,51470,61210,119610,2006,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness trainers and aerobics instructors,14250,11.0,20.34,42320,2.2,8.91,12.05,19.12,26.28,33.93,18540,25060,39780,54670,70580,2006,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation workers,19930,4.3,12.07,25110,1.6,7.01,8.38,10.78,14.43,18.92,14580,17420,22420,30020,39360,2006,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1621620,0.7,22.36,46520,1.9,9.11,12.22,18.23,28.13,40.58,18950,25410,37920,58510,84410,2006,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,230,30.9,15.28,,11.8,7.63,10.13,11.80,20.48,25.16,,,,,,2006,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,270,39.6,24.22,50380,15.3,11.34,16.14,23.02,33.01,38.08,23590,33570,47880,68660,79200,2006,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness trainers and aerobics instructors,,,18.41,38300,7.1,9.02,10.56,15.62,24.99,33.59,18760,21960,32490,51990,69870,2006,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation workers,,,11.67,24280,1.9,7.98,8.96,10.55,13.35,17.35,16600,18630,21950,27770,36100,2006,rec_worker
+All,U.S. all,00-0000,All Occupations,134354250,0.1,         19.56,         40690,0.1,          7.72,         10.06,         15.10,         23.87,         36.49,         16060,         20920,         31410,         49640,         75910,2007,all_jobs
+All,U.S. all,27-2031,Dancers,12530,7.0,         14.74,,3.6,          7.17,          7.75,         10.72,         17.85,         28.01,,,,,,2007,dancer
+All,U.S. all,27-2032,Choreographers,15250,7.0,         19.04,         39600,2.6,          7.99,         10.91,         17.11,         25.13,         31.44,         16620,         22700,         35580,         52270,         65400,2007,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,219990,1.4,         15.86,         32990,0.8,          7.48,          9.06,         13.31,         20.49,         28.36,         15550,         18850,         27680,         42610,         58990,2007,fit_trainer
+All,U.S. all,39-9032,Recreation workers,278070,1.3,         11.44,         23790,0.4,          7.20,          8.21,         10.20,         13.44,         17.66,         14980,         17070,         21220,         27960,         36730,2007,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5682670,0.4,21.88,45500,0.8,8.27,10.38,16.53,27.29,42.14,17210,21580,34380,56770,87640,2007,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,1390,29.2,9.65,,5.7,7.65,7.99,8.62,9.25,12.24,,,,,,2007,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,970,20.6,23.76,49410,8.2,12.23,16.70,22.68,28.26,35.66,25440,34740,47170,58780,74160,2007,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness trainers and aerobics instructors,10960,6.5,18.94,39390,2.6,8.79,11.44,18.45,23.87,30.72,18290,23790,38370,49650,63890,2007,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation workers,11810,4.5,11.04,22970,1.2,7.87,8.75,10.33,12.26,15.00,16380,18210,21490,25490,31200,2007,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,2019270,0.7,26.18,54450,0.8,9.15,12.83,20.77,33.21,50.30,19020,26690,43210,69080,104620,2007,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,350,45.1,16.66,,8.9,12.47,13.55,15.73,17.83,19.09,,,,,,2007,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,,,26.51,55150,7.3,15.67,19.64,25.97,32.80,39.48,32600,40850,54030,68230,82120,2007,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness trainers and aerobics instructors,5010,8.3,19.42,40390,3.6,10.09,12.75,18.07,24.25,30.97,20980,26520,37590,50440,64420,2007,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation workers,5440,6.3,13.42,27910,1.9,8.27,9.71,12.52,16.35,19.56,17210,20190,26040,34010,40680,2007,rec_worker
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",00-0000,All Occupations,4477610,0.4,21.69,45120,0.8,7.74,10.44,16.62,27.65,40.70,16100,21710,34570,57500,84660,2007,all_jobs
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2031,Dancers,490,38.6,12.93,,14.7,7.21,7.69,10.33,14.26,26.16,,,,,,2007,dancer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2032,Choreographers,530,40.3,19.95,41490,7.9,9.32,13.57,17.51,24.29,36.22,19380,28230,36430,50530,75350,2007,choreo
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9031,Fitness trainers and aerobics instructors,9400,9.7,16.70,34740,4.5,7.51,8.81,12.34,22.84,30.57,15630,18330,25660,47510,63580,2007,fit_trainer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9032,Recreation workers,9770,7.3,11.25,23390,2.1,7.19,7.84,9.58,12.76,17.50,14960,16310,19920,26550,36410,2007,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8340640,0.3,24.43,50820,0.4,8.54,11.82,18.81,30.40,46.79,17760,24590,39120,63240,97320,2007,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1420,23.7,18.46,,9.0,7.46,9.30,15.26,25.21,31.55,,,,,,2007,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,,,31.36,65230,16.8,13.66,20.63,25.68,30.93,68.58,28420,42910,53420,64330,142650,2007,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness trainers and aerobics instructors,17120,9.9,21.54,44800,2.4,8.34,11.92,19.87,28.49,38.23,17340,24780,41330,59260,79520,2007,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation workers,19800,4.0,12.25,25480,1.4,7.54,8.84,11.10,14.53,18.47,15680,18380,23080,30230,38420,2007,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1682770,0.7,23.35,48560,2.0,9.55,12.79,18.85,29.34,42.67,19870,26600,39210,61030,88760,2007,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,300,44.0,18.23,,14.0,7.95,10.72,12.59,27.43,30.12,,,,,,2007,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,17.36,36110,10.4,10.65,12.10,16.85,19.21,30.45,22140,25170,35050,39950,63330,2007,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness trainers and aerobics instructors,3860,7.1,19.78,41150,6.3,9.06,10.88,17.38,27.68,34.88,18850,22630,36150,57570,72550,2007,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation workers,2250,12.2,12.09,25150,2.0,8.18,9.14,10.99,13.86,18.15,17020,19010,22850,28820,37750,2007,rec_worker
+All,U.S. all,00-0000,All Occupations,135185230,0.1,         20.32,         42270,           0.1,          8.02,         10.38,         15.57,         24.78,         37.99,         16680,         21590,         32390,         51540,         79020,2008,all_jobs
+All,U.S. all,27-2031,Dancers,11370,6.6,         15.06,,           2.7,          7.28,          8.03,         12.22,         18.82,         27.26,,,,,,2008,dancer
+All,U.S. all,27-2032,Choreographers,13860,6.5,         20.13,         41870,           2.3,          8.60,         12.17,         18.52,         26.62,         32.29,         17880,         25320,         38520,         55360,         67160,2008,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,229030,1.3,         16.50,         34310,           0.9,          7.75,          9.43,         14.04,         21.35,         29.21,         16120,         19610,         29210,         44420,         60760,2008,fit_trainer
+All,U.S. all,39-9032,Recreation workers,282680,1.1,         11.81,         24570,           0.4,          7.52,          8.50,         10.56,         13.85,         18.14,         15630,         17680,         21960,         28810,         37730,2008,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5686130,0.5,22.90,47640,0.8,8.68,10.77,17.12,28.67,44.34,18050,22390,35610,59630,92230,2008,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,940,28.7,15.15,,10.4,8.27,9.27,12.07,21.22,23.82,,,,,,2008,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,960,32.9,22.67,47160,7.6,12.23,14.11,21.63,28.35,33.29,25440,29340,44980,58970,69240,2008,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness trainers and aerobics instructors,9970,5.1,19.21,39960,2.6,10.07,13.31,18.13,24.47,30.32,20940,27670,37710,50910,63060,2008,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation workers,12630,5.2,11.56,24040,1.6,8.25,9.13,10.83,12.93,15.86,17160,18990,22520,26890,32980,2008,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,2053540,0.8,27.31,56810,0.7,9.54,13.31,21.60,34.74,52.34,19850,27670,44930,72270,108860,2008,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,400,41.9,17.99,,8.4,13.17,15.00,17.23,19.30,23.09,,,,,,2008,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,440,34.7,26.48,55090,6.2,14.35,20.40,27.14,31.70,38.42,29850,42430,56450,65930,79910,2008,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness trainers and aerobics instructors,5390,7.1,20.96,43600,2.9,11.09,14.84,19.50,25.90,32.51,23060,30860,40560,53860,67620,2008,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation workers,5630,7.8,13.59,28270,1.8,8.66,10.07,12.57,16.11,19.72,18020,20940,26150,33510,41030,2008,rec_worker
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",00-0000,All Occupations,4493330,0.3,22.65,47120,0.9,8.12,10.77,17.11,28.93,43.05,16890,22390,35590,60170,89540,2008,all_jobs
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2031,Dancers,470,35.6,12.89,,11.5,7.82,8.10,10.41,16.39,21.84,,,,,,2008,dancer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2032,Choreographers,,,19.47,40490,9.4,9.31,13.99,18.32,24.27,33.16,19370,29090,38100,50480,68970,2008,choreo
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9031,Fitness trainers and aerobics instructors,9890,8.2,16.88,35110,4.8,7.80,9.01,12.14,23.60,31.98,16230,18730,25260,49090,66510,2008,fit_trainer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9032,Recreation workers,10210,9.3,11.57,24070,2.0,7.76,8.12,9.84,12.96,17.40,16150,16900,20460,26960,36200,2008,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8455130,0.3,25.39,52820,0.4,8.83,12.18,19.37,31.54,48.73,18360,25340,40280,65590,101360,2008,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1340,25.8,20.01,,8.0,7.79,10.99,15.79,26.98,37.60,,,,,,2008,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,470,49.7,34.13,70990,7.1,21.02,24.25,29.94,36.65,48.59,43720,50430,62280,76230,101070,2008,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness trainers and aerobics instructors,19010,5.1,23.71,49310,3.1,8.68,12.46,22.36,31.58,42.63,18050,25910,46500,65680,88670,2008,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation workers,20390,5.8,12.68,26370,1.2,7.92,9.47,11.57,14.93,18.96,16480,19690,24060,31060,39440,2008,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1728170,0.6,24.21,50350,2.1,9.81,13.08,19.42,30.57,44.67,20400,27210,40390,63590,92920,2008,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,320,41.7,18.52,,17.9,8.21,11.27,13.06,28.22,30.89,,,,,,2008,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,22.88,47590,20.0,11.85,17.97,25.66,28.66,30.49,24650,37380,53360,59620,63420,2008,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness trainers and aerobics instructors,3780,18.0,18.63,38750,5.4,8.86,10.23,16.11,26.08,32.32,18440,21280,33510,54250,67220,2008,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation workers,2950,10.2,13.14,27320,2.3,8.63,9.91,12.11,15.24,19.39,17950,20620,25180,31690,40330,2008,rec_worker
+All,U.S. all,00-0000,All Occupations,130647610,0.1,         20.90,         43460,0.1,          8.24,         10.55,         15.95,         25.44,         39.02,         17140,         21940,         33190,         52920,         81160,2009,all_jobs
+All,U.S. all,27-2031,Dancers,10700,6.1,         16.37,,3.1,          7.54,          8.67,         13.74,         20.82,         29.18,,,,,,2009,dancer
+All,U.S. all,27-2032,Choreographers,14700,5.5,         20.25,         42130,2.0,          8.75,         12.05,         18.20,         26.83,         33.21,         18210,         25050,         37860,         55800,         69070,2009,choreo
+All,U.S. all,39-9031,Fitness trainers and aerobics instructors,228170,1.4,         16.99,         35340,0.9,          7.90,          9.55,         14.74,         21.98,         29.86,         16430,         19860,         30670,         45720,         62120,2009,fit_trainer
+All,U.S. all,39-9032,Recreation workers,286230,1.0,         12.04,         25040,0.4,          7.73,          8.72,         10.71,         13.97,         18.35,         16070,         18130,         22280,         29060,         38170,2009,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5395280,0.6,23.55,48990,0.8,8.92,11.01,17.49,29.35,45.42,18550,22900,36370,61050,94470,2009,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,1340,28.5,13.58,,13.2,8.29,8.63,9.20,20.52,24.00,,,,,,2009,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,970,32.2,22.36,46500,9.3,11.41,13.93,18.81,28.10,34.40,23730,28970,39130,58450,71550,2009,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness trainers and aerobics instructors,8200,5.7,19.42,40400,2.7,11.77,14.14,18.01,23.81,29.84,24480,29400,37470,49530,62060,2009,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation workers,13690,4.1,12.03,25030,1.6,8.67,9.55,11.31,13.63,16.33,18040,19860,23530,28350,33960,2009,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1973500,0.8,28.01,58250,0.7,9.73,13.47,21.91,35.59,54.04,20240,28010,45580,74030,112400,2009,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,470,38.4,17.12,,4.5,13.10,14.65,16.99,19.28,21.76,,,,,,2009,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,510,48.5,26.44,55000,7.3,14.24,18.13,27.19,32.14,39.26,29620,37720,56560,66840,81660,2009,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness trainers and aerobics instructors,5340,10.2,22.13,46020,3.1,12.55,16.69,20.48,27.20,33.26,26110,34710,42610,56570,69170,2009,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation workers,5260,6.9,14.20,29540,2.8,9.24,10.67,13.21,16.88,20.64,19210,22200,27480,35100,42920,2009,rec_worker
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",00-0000,All Occupations,4319720,0.5,23.16,48180,1.0,8.47,10.86,17.50,29.41,43.99,17630,22590,36410,61160,91500,2009,all_jobs
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2031,Dancers,330,24.4,15.48,,11.4,9.68,10.45,12.09,18.83,27.45,,,,,,2009,dancer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2032,Choreographers,280,35.3,22.42,46630,7.0,13.75,16.37,18.98,31.40,37.66,28590,34050,39470,65310,78330,2009,choreo
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9031,Fitness trainers and aerobics instructors,9260,7.5,18.41,38290,5.9,7.99,9.26,15.79,25.31,33.43,16620,19270,32840,52640,69530,2009,fit_trainer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9032,Recreation workers,10730,7.1,11.97,24910,2.2,8.04,8.65,10.00,13.30,18.89,16730,18000,20810,27660,39300,2009,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8245760,0.4,26.08,54240,0.5,8.92,12.29,19.77,32.47,49.81,18550,25570,41110,67530,103590,2009,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1470,15.0,23.92,,5.1,11.80,14.85,19.94,29.60,44.27,,,,,,2009,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,,,33.52,69730,6.6,21.59,24.62,30.40,37.24,45.59,44900,51200,63240,77470,94840,2009,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness trainers and aerobics instructors,20040,6.8,24.75,51470,3.4,8.17,12.71,23.50,34.54,44.10,17000,26430,48890,71840,91730,2009,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation workers,21470,5.0,12.94,26910,1.3,8.08,9.57,11.60,15.06,19.59,16810,19900,24130,31320,40750,2009,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1670200,0.6,24.93,51850,2.4,9.92,13.35,20.02,31.60,45.83,20630,27770,41630,65720,95320,2009,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,200,38.5,28.90,,12.2,14.77,20.23,28.56,32.52,44.39,,,,,,2009,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness trainers and aerobics instructors,3990,9.8,17.89,37210,4.2,9.11,11.10,17.62,21.85,29.11,18950,23090,36650,45460,60550,2009,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation workers,2540,10.3,13.08,27200,3.1,9.01,9.95,11.94,14.75,18.77,18730,20700,24840,30680,39040,2009,rec_worker
+All,U.S. all,00-0000,All Occupations,127097160.0,0.1,21.35,44410.0,0.1,8.51,10.65,16.27,26.08,39.97,17690.0,22150.0,33840.0,54250.0,83140.0,2010,all_jobs
+All,U.S. all,27-2031,Dancers,11200.0,6.5,16.55,,3.2,7.79,8.83,13.16,21.48,30.43,,,,,,2010,dancer
+All,U.S. all,27-2032,Choreographers,12390.0,6.3,20.25,42110.0,2.3,8.93,12.01,18.11,26.79,34.22,18570.0,24980.0,37660.0,55720.0,71180.0,2010,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,225490.0,1.3,17.27,35920.0,1.0,8.21,9.55,14.95,22.18,30.48,17070.0,19870.0,31090.0,46130.0,63400.0,2010,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,293430.0,1.0,12.15,25270.0,0.4,7.92,8.82,10.7,14.04,18.49,16470.0,18340.0,22260.0,29200.0,38460.0,2010,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5191880.0,0.5,24.1,50120.0,0.7,8.98,11.1,17.75,30.19,46.51,18680.0,23090.0,36920.0,62790.0,96730.0,2010,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,,,13.55,,12.2,8.34,8.67,9.22,20.69,23.58,,,,,,2010,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,1070.0,37.9,22.66,47120.0,11.0,12.08,13.67,17.9,29.04,40.88,25130.0,28430.0,37240.0,60400.0,85030.0,2010,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness Trainers and Aerobics Instructors,7710.0,8.8,19.84,41280.0,3.9,11.52,14.28,17.81,23.86,31.6,23960.0,29690.0,37040.0,49630.0,65730.0,2010,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation Workers,13510.0,3.8,12.09,25150.0,1.1,8.76,9.65,11.32,13.75,16.49,18210.0,20060.0,23550.0,28590.0,34290.0,2010,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1900110.0,0.5,28.76,59820.0,0.7,9.94,13.77,22.29,36.36,55.71,20680.0,28640.0,46370.0,75620.0,115880.0,2010,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,320.0,26.0,19.74,,9.7,8.84,13.06,20.34,23.6,32.4,,,,,,2010,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,500.0,31.3,20.16,41940.0,14.0,10.22,11.44,17.02,24.97,34.5,21250.0,23800.0,35400.0,51930.0,71750.0,2010,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness Trainers and Aerobics Instructors,5360.0,7.6,24.47,50900.0,3.0,12.15,17.42,23.71,31.03,36.95,25260.0,36230.0,49330.0,64550.0,76860.0,2010,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation Workers,5040.0,9.1,14.71,30590.0,3.1,9.21,10.55,13.37,17.63,21.94,19150.0,21940.0,27800.0,36660.0,45630.0,2010,rec_worker
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",00-0000,All Occupations,4169840.0,0.6,23.32,48490.0,1.0,8.88,10.89,17.59,29.45,44.1,18470.0,22660.0,36590.0,61260.0,91730.0,2010,all_jobs
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2031,Dancers,310.0,28.5,14.16,,5.3,9.8,10.53,11.9,17.68,20.09,,,,,,2010,dancer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",27-2032,Choreographers,160.0,22.5,22.46,46710.0,11.0,9.03,12.39,18.82,34.55,39.22,18780.0,25770.0,39150.0,71870.0,81580.0,2010,choreo
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,8950.0,8.7,17.79,36990.0,6.5,8.35,8.99,13.84,24.74,33.7,17370.0,18710.0,28790.0,51460.0,70090.0,2010,fit_trainer
+Chicago,"Chicago-Naperville-Joliet, IL-IN-WI",39-9032,Recreation Workers,12080.0,6.9,11.97,24890.0,2.0,8.51,8.91,10.03,12.95,18.41,17690.0,18530.0,20870.0,26940.0,38300.0,2010,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8101890.0,0.3,26.48,55080.0,0.5,8.95,12.31,19.98,33.19,50.85,18610.0,25610.0,41550.0,69040.0,105770.0,2010,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1710.0,14.9,24.78,,5.7,10.57,15.7,22.41,31.7,42.09,,,,,,2010,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,190.0,28.6,33.91,70520.0,5.6,18.88,29.83,35.01,40.25,47.1,39270.0,62050.0,72820.0,83730.0,97960.0,2010,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,19150.0,7.1,26.11,54310.0,3.7,8.94,15.25,25.1,36.09,45.17,18590.0,31710.0,52210.0,75070.0,93950.0,2010,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation Workers,22550.0,4.8,13.5,28080.0,1.5,8.21,9.8,11.94,15.96,21.21,17070.0,20390.0,24840.0,33190.0,44110.0,2010,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1601010.0,0.7,25.57,53180.0,2.4,9.99,13.53,20.64,32.59,47.03,20780.0,28140.0,42930.0,67780.0,97830.0,2010,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,28.69,59670.0,16.0,15.66,26.13,28.75,31.52,40.72,32580.0,54360.0,59810.0,65560.0,84700.0,2010,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,4220.0,9.6,18.83,39160.0,5.1,9.29,12.05,18.97,22.5,30.66,19320.0,25060.0,39460.0,46810.0,63760.0,2010,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,2840.0,10.7,12.98,27000.0,3.0,8.97,9.71,11.72,14.57,18.75,18660.0,20200.0,24390.0,30300.0,39000.0,2010,rec_worker
+All,U.S. all,00-0000,All Occupations,128278550.0,0.1,21.74,45230.0,0.1,8.65,10.76,16.57,26.67,41.0,18000.0,22380.0,34460.0,55470.0,85280.0,2011,all_jobs
+All,U.S. all,27-2031,Dancers,11240.0,8.2,19.53,,6.6,8.5,9.37,15.06,23.39,33.49,,,,,,2011,dancer
+All,U.S. all,27-2032,Choreographers,10870.0,6.5,21.23,44160.0,2.4,9.23,12.76,19.04,27.89,35.61,19190.0,26540.0,39600.0,58010.0,74060.0,2011,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,231500.0,1.3,17.38,36150.0,0.9,8.33,9.5,14.92,22.18,31.34,17340.0,19750.0,31030.0,46120.0,65180.0,2011,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,301840.0,0.9,12.18,25330.0,0.4,8.07,8.85,10.64,14.05,18.56,16780.0,18410.0,22130.0,29230.0,38600.0,2011,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5209180.0,0.5,24.75,51480.0,0.7,9.01,11.3,18.08,31.2,47.92,18740.0,23510.0,37620.0,64900.0,99680.0,2011,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,,,13.05,,11.1,8.47,8.8,9.34,17.22,22.38,,,,,,2011,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,990.0,37.6,24.91,51820.0,13.3,11.86,14.02,23.74,32.47,45.4,24660.0,29160.0,49390.0,67530.0,94430.0,2011,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness Trainers and Aerobics Instructors,7510.0,10.4,21.1,43890.0,4.2,11.11,15.22,18.94,25.08,34.84,23110.0,31660.0,39400.0,52180.0,72480.0,2011,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation Workers,13310.0,4.7,12.08,25130.0,1.2,8.83,9.78,11.41,13.64,15.99,18360.0,20340.0,23740.0,28380.0,33250.0,2011,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1911930.0,0.5,29.51,61370.0,0.8,10.02,13.99,22.81,37.45,57.46,20840.0,29100.0,47440.0,77900.0,119520.0,2011,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,390.0,27.3,20.54,,8.3,9.1,15.87,20.09,23.59,33.32,,,,,,2011,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,750.0,27.4,25.05,52100.0,11.7,10.82,15.11,19.94,33.68,50.07,22500.0,31430.0,41470.0,70050.0,104130.0,2011,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness Trainers and Aerobics Instructors,4980.0,9.9,26.11,54310.0,3.4,11.52,18.22,25.42,33.65,41.91,23970.0,37900.0,52870.0,70000.0,87160.0,2011,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation Workers,5250.0,4.8,14.44,30040.0,3.4,8.94,10.19,12.96,17.7,21.83,18580.0,21200.0,26950.0,36820.0,45410.0,2011,rec_worker
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",00-0000,All Occupations,4209330.0,0.4,23.28,48430.0,0.8,8.99,10.95,17.58,29.29,43.68,18690.0,22780.0,36560.0,60930.0,90840.0,2011,all_jobs
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2031,Dancers,250.0,21.8,12.29,,5.8,8.61,9.19,10.9,15.46,17.41,,,,,,2011,dancer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2032,Choreographers,,,18.76,39020.0,13.8,8.95,11.85,15.76,21.53,36.74,18610.0,24660.0,32780.0,44790.0,76420.0,2011,choreo
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,9350.0,7.8,16.91,35180.0,6.6,8.63,9.09,12.29,22.76,32.1,17940.0,18900.0,25570.0,47330.0,66780.0,2011,fit_trainer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9032,Recreation Workers,13020.0,6.3,12.06,25080.0,1.9,8.58,8.95,9.96,13.13,18.73,17850.0,18620.0,20720.0,27300.0,38960.0,2011,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8180120.0,0.3,27.02,56210.0,0.5,9.0,12.39,20.36,34.01,52.42,18720.0,25780.0,42350.0,70750.0,109030.0,2011,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,2220.0,28.0,31.15,,16.6,11.1,15.34,24.51,33.67,50.26,,,,,,2011,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,200.0,21.5,33.18,69010.0,7.4,18.78,21.73,32.93,42.26,51.03,39060.0,45210.0,68490.0,87890.0,106150.0,2011,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,17720.0,6.6,27.01,56190.0,4.3,9.12,15.46,26.07,37.46,47.61,18960.0,32160.0,54230.0,77920.0,99030.0,2011,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation Workers,23770.0,4.8,14.09,29300.0,1.6,8.31,9.72,12.39,17.03,22.43,17270.0,20220.0,25780.0,35420.0,46650.0,2011,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1624590.0,0.7,26.32,54750.0,2.4,10.17,13.92,21.27,33.76,48.61,21150.0,28960.0,44240.0,70220.0,101120.0,2011,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,5110.0,16.8,20.64,42920.0,4.1,10.26,15.12,20.35,24.31,32.23,21340.0,31450.0,42320.0,50570.0,67030.0,2011,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,2790.0,9.9,13.61,28310.0,2.8,9.08,9.77,11.73,14.95,21.32,18890.0,20320.0,24400.0,31090.0,44330.0,2011,rec_worker
+All,U.S. all,00-0000,All Occupations,130287700,0.1,22.01,45790.0,0.1,8.7,10.81,16.71,27.02,41.74,18090.0,22480.0,34750.0,56200.0,86810.0,2012,all_jobs
+All,U.S. all,27-2031,Dancers,11390,6.2,19.02,,5.8,8.5,9.46,14.16,23.04,33.34,,,,,,2012,dancer
+All,U.S. all,27-2032,Choreographers,7400,7.8,21.6,44930.0,3.6,9.41,12.72,18.33,27.88,39.28,19560.0,26460.0,38120.0,57980.0,81710.0,2012,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,234070,1.4,17.74,36900.0,0.9,8.48,9.76,15.25,22.72,31.99,17630.0,20310.0,31720.0,47250.0,66530.0,2012,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,309730,0.9,12.22,25430.0,0.4,8.13,8.89,10.69,14.13,18.63,16900.0,18480.0,22240.0,29400.0,38750.0,2012,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5282160,0.5,25.0,51990.0,0.6,9.01,11.32,18.24,31.8,48.69,18730.0,23550.0,37940.0,66150.0,101280.0,2012,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,970,30.7,14.46,,10.8,8.46,8.85,9.65,18.54,23.46,,,,,,2012,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,600,39.5,32.15,66870.0,11.5,12.9,14.26,30.82,49.1,55.14,26820.0,29660.0,64100.0,102120.0,114690.0,2012,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness Trainers and Aerobics Instructors,7560,11.7,22.05,45860.0,3.8,9.55,14.93,20.19,27.44,38.18,19860.0,31060.0,42000.0,57080.0,79420.0,2012,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation Workers,12440,5.1,12.26,25490.0,1.1,8.91,9.95,11.54,13.72,16.64,18530.0,20690.0,24010.0,28530.0,34610.0,2012,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,1971780,0.6,30.13,62680.0,0.8,10.0,14.07,23.25,38.81,59.13,20800.0,29260.0,48370.0,80730.0,122980.0,2012,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,550,29.1,17.45,,10.3,9.34,10.73,18.2,21.54,24.73,,,,,,2012,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,640,36.9,26.15,54390.0,13.8,10.73,15.08,21.79,35.7,51.03,22320.0,31370.0,45320.0,74260.0,106140.0,2012,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness Trainers and Aerobics Instructors,4670,10.7,28.02,58280.0,3.5,10.38,18.24,27.92,36.77,46.29,21600.0,37950.0,58070.0,76480.0,96270.0,2012,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation Workers,6790,5.8,13.58,28240.0,2.6,8.56,9.31,11.99,16.37,20.93,17800.0,19370.0,24940.0,34040.0,43540.0,2012,rec_worker
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",00-0000,All Occupations,4276280,0.4,23.62,49120.0,0.9,9.01,10.96,17.71,29.88,44.45,18750.0,22800.0,36830.0,62150.0,92450.0,2012,all_jobs
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2031,Dancers,310,21.2,16.3,,8.5,8.87,10.3,15.53,20.67,26.69,,,,,,2012,dancer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2032,Choreographers,160,27.6,20.19,42000.0,15.9,9.27,12.87,18.44,25.25,36.46,19280.0,26780.0,38360.0,52510.0,75830.0,2012,choreo
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,13010,8.5,15.49,32220.0,5.5,8.6,8.97,10.75,19.77,28.94,17900.0,18660.0,22360.0,41120.0,60190.0,2012,fit_trainer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9032,Recreation Workers,12740,4.8,12.03,25030.0,1.4,8.6,8.98,10.22,13.49,18.32,17900.0,18690.0,21260.0,28050.0,38100.0,2012,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8305030,0.3,27.38,56940.0,0.5,9.02,12.38,20.51,34.61,53.39,18770.0,25760.0,42660.0,71980.0,111060.0,2012,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1930,19.6,30.02,,15.8,10.07,13.42,25.17,33.57,42.91,,,,,,2012,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,150,11.3,31.46,65450.0,7.3,15.56,20.72,30.48,44.86,52.63,32360.0,43090.0,63410.0,93310.0,109470.0,2012,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,16740,6.9,27.04,56250.0,4.7,10.48,16.11,26.1,35.86,47.44,21790.0,33520.0,54290.0,74580.0,98670.0,2012,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation Workers,24850,5.0,14.11,29360.0,1.5,8.31,9.72,12.56,17.19,22.37,17270.0,20220.0,26130.0,35740.0,46530.0,2012,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1664990,0.8,26.87,55890.0,2.4,10.23,13.93,21.52,34.62,50.45,21270.0,28980.0,44750.0,72000.0,104930.0,2012,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,4560,11.6,20.72,43090.0,5.2,10.2,12.9,18.42,28.02,34.2,21210.0,26830.0,38310.0,58280.0,71140.0,2012,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3130,6.2,13.81,28720.0,1.8,9.4,10.24,12.04,15.43,20.71,19560.0,21310.0,25030.0,32100.0,43070.0,2012,rec_worker
+All,U.S. all,00-0000,All Occupations,132588810.0,0.1,22.33,46440.0,0.1,8.74,10.9,16.87,27.34,42.47,18190.0,22670.0,35080.0,56860.0,88330.0,2013,all_jobs
+All,U.S. all,27-2031,Dancers,11540.0,6.6,20.0,,6.2,8.47,9.69,14.87,23.38,34.22,,,,,,2013,dancer
+All,U.S. all,27-2032,Choreographers,6300.0,7.6,24.0,49930.0,3.8,9.2,13.71,21.22,31.66,45.59,19140.0,28510.0,44130.0,65850.0,94830.0,2013,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,238170.0,1.4,18.17,37790.0,0.8,8.58,10.15,15.88,23.36,32.19,17840.0,21110.0,33020.0,48590.0,66950.0,2013,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,317310.0,1.0,12.29,25560.0,0.5,8.17,8.94,10.76,14.21,18.7,16990.0,18590.0,22390.0,29550.0,38890.0,2013,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5427320.0,0.5,25.3,52610.0,0.7,9.04,11.42,18.31,32.05,49.69,18810.0,23760.0,38090.0,66660.0,103350.0,2013,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,980.0,36.1,16.39,,12.0,8.59,9.17,15.42,19.85,26.22,,,,,,2013,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,340.0,41.3,,,,,,,,,,,,,,2013,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness Trainers and Aerobics Instructors,8180.0,13.7,22.63,47070.0,3.2,9.31,14.11,21.73,28.92,36.23,19360.0,29350.0,45200.0,60160.0,75350.0,2013,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation Workers,12370.0,3.8,12.39,25780.0,1.0,8.96,10.02,11.65,13.92,16.95,18630.0,20850.0,24230.0,28950.0,35250.0,2013,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,2049560.0,0.8,30.59,63630.0,0.8,10.07,14.11,23.43,39.75,61.19,20940.0,29340.0,48730.0,82670.0,127270.0,2013,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,480.0,28.6,16.77,,9.8,9.27,10.86,16.25,21.02,25.38,,,,,,2013,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,320.0,41.7,35.64,74120.0,14.3,16.33,21.73,35.58,50.39,55.83,33960.0,45190.0,74010.0,104810.0,116120.0,2013,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness Trainers and Aerobics Instructors,4530.0,7.7,28.89,60100.0,3.9,10.92,18.38,29.25,38.29,48.15,22710.0,38230.0,60830.0,79650.0,100140.0,2013,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation Workers,7380.0,5.9,13.56,28200.0,1.4,8.74,9.7,12.54,16.2,20.35,18180.0,20170.0,26080.0,33690.0,42330.0,2013,rec_worker
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",00-0000,All Occupations,4347580.0,0.7,23.66,49210.0,0.8,9.04,11.06,17.63,29.93,44.8,18810.0,23000.0,36660.0,62250.0,93180.0,2013,all_jobs
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2031,Dancers,440.0,27.1,18.93,,6.6,9.11,12.23,16.98,23.34,31.26,,,,,,2013,dancer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2032,Choreographers,60.0,35.0,27.45,57100.0,16.1,18.1,20.31,24.44,34.79,42.26,37640.0,42240.0,50830.0,72360.0,87890.0,2013,choreo
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,,,15.99,33250.0,4.3,8.73,9.2,12.12,20.91,28.24,18160.0,19140.0,25210.0,43490.0,58730.0,2013,fit_trainer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9032,Recreation Workers,13760.0,6.5,12.38,25740.0,1.3,8.69,9.13,10.66,13.87,18.8,18070.0,19000.0,22160.0,28850.0,39110.0,2013,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8416800.0,0.3,27.89,58010.0,0.5,9.05,12.45,20.8,35.33,54.59,18820.0,25900.0,43250.0,73490.0,113540.0,2013,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1540.0,22.9,29.96,,18.8,12.14,14.04,22.1,32.1,42.48,,,,,,2013,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,190.0,28.1,31.96,66480.0,6.9,16.69,21.84,28.99,46.18,53.3,34710.0,45430.0,60300.0,96060.0,110870.0,2013,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,16790.0,5.5,26.55,55230.0,4.4,10.4,15.98,24.64,35.14,47.13,21640.0,33250.0,51240.0,73090.0,98030.0,2013,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation Workers,24390.0,5.8,14.14,29410.0,1.4,8.4,9.89,12.62,17.11,22.14,17470.0,20560.0,26250.0,35590.0,46060.0,2013,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1711330.0,0.6,27.46,57110.0,2.8,10.29,14.0,21.72,35.27,52.5,21400.0,29110.0,45170.0,73360.0,109200.0,2013,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,36.05,74980.0,8.7,21.89,30.65,36.6,42.38,46.75,45520.0,63750.0,76120.0,88160.0,97240.0,2013,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,4750.0,14.4,19.77,41120.0,4.6,9.95,11.56,16.56,27.18,34.21,20700.0,24050.0,34440.0,56540.0,71150.0,2013,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3390.0,7.2,14.29,29730.0,2.0,9.61,10.44,12.12,16.33,22.36,19990.0,21710.0,25200.0,33970.0,46510.0,2013,rec_worker
+All,U.S. all,00-0000,All Occupations,135128260.0,0.1,22.71,47230.0,0.1,8.82,11.04,17.09,27.75,43.3,18350.0,22950.0,35540.0,57720.0,90060.0,2014,all_jobs
+All,U.S. all,27-2031,Dancers,11240.0,7.0,18.53,,2.9,8.52,9.46,14.31,23.71,34.44,,,,,,2014,dancer
+All,U.S. all,27-2032,Choreographers,6030.0,8.3,24.71,51390.0,4.4,9.06,13.73,21.28,32.89,48.96,18840.0,28550.0,44250.0,68410.0,101830.0,2014,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,241000.0,1.4,18.95,39410.0,0.7,8.71,10.84,16.82,24.48,32.48,18110.0,22540.0,34980.0,50920.0,67560.0,2014,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,321110.0,1.1,12.42,25830.0,0.5,8.27,9.0,10.88,14.32,18.86,17190.0,18720.0,22620.0,29800.0,39230.0,2014,rec_worker
+LA,"Los Angeles-Long Beach-Santa Ana, CA",00-0000,All Occupations,5541000.0,0.5,25.48,53000.0,0.6,9.09,11.46,18.41,32.15,50.08,18900.0,23850.0,38290.0,66880.0,104170.0,2014,all_jobs
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2031,Dancers,930.0,33.0,15.57,,12.1,8.67,9.16,10.94,20.83,27.21,,,,,,2014,dancer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",27-2032,Choreographers,370.0,44.6,,,,,,,,,,,,,,2014,choreo
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9031,Fitness Trainers and Aerobics Instructors,8700.0,10.7,22.95,47750.0,4.0,9.13,13.19,21.23,29.01,40.58,18990.0,27440.0,44160.0,60330.0,84400.0,2014,fit_trainer
+LA,"Los Angeles-Long Beach-Santa Ana, CA",39-9032,Recreation Workers,12730.0,3.7,12.48,25970.0,1.2,8.84,9.9,11.57,14.06,17.67,18390.0,20600.0,24060.0,29250.0,36750.0,2014,rec_worker
+SanFran,"San Francisco-Oakland-Fremont, CA",00-0000,All Occupations,2112800.0,1.0,31.25,64990.0,0.8,10.21,14.23,23.72,40.55,62.9,21240.0,29600.0,49330.0,84340.0,130840.0,2014,all_jobs
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2031,Dancers,500.0,35.2,16.93,,9.2,9.2,10.77,14.15,21.01,27.73,,,,,,2014,dancer
+SanFran,"San Francisco-Oakland-Fremont, CA",27-2032,Choreographers,150.0,26.8,38.01,79050.0,9.3,16.06,30.56,38.7,50.66,56.16,33410.0,63570.0,80490.0,105370.0,116800.0,2014,choreo
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9031,Fitness Trainers and Aerobics Instructors,5030.0,7.8,27.86,57960.0,4.4,10.78,15.22,27.23,36.59,49.74,22420.0,31670.0,56640.0,76100.0,103450.0,2014,fit_trainer
+SanFran,"San Francisco-Oakland-Fremont, CA",39-9032,Recreation Workers,7320.0,7.2,14.06,29240.0,1.7,8.94,10.26,13.02,16.51,20.98,18600.0,21350.0,27090.0,34330.0,43650.0,2014,rec_worker
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",00-0000,All Occupations,4411860.0,0.3,24.23,50410.0,0.8,9.08,11.19,18.07,30.75,46.01,18890.0,23280.0,37590.0,63950.0,95700.0,2014,all_jobs
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2031,Dancers,580.0,45.7,22.27,,8.9,10.75,13.64,20.86,26.37,34.46,,,,,,2014,dancer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",27-2032,Choreographers,,,24.63,51230.0,7.8,19.54,20.55,22.23,23.97,37.35,40640.0,42740.0,46250.0,49850.0,77690.0,2014,choreo
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,,,17.57,36550.0,3.6,8.84,9.44,13.83,23.47,29.34,18380.0,19640.0,28770.0,48820.0,61020.0,2014,fit_trainer
+Chicago,"Chicago-Joliet-Naperville, IL-IN-WI",39-9032,Recreation Workers,15590.0,6.6,12.12,25220.0,1.3,8.64,9.07,10.54,13.57,18.24,17970.0,18870.0,21910.0,28230.0,37940.0,2014,rec_worker
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",00-0000,All Occupations,8615710.0,0.3,28.39,59060.0,0.5,9.19,12.47,20.99,35.83,55.72,19120.0,25950.0,43660.0,74530.0,115900.0,2014,all_jobs
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2031,Dancers,1040.0,17.1,23.98,,7.2,12.12,15.46,22.7,31.44,36.45,,,,,,2014,dancer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",27-2032,Choreographers,330.0,31.2,33.55,69790.0,9.9,18.82,21.43,29.9,49.15,56.44,39140.0,44580.0,62180.0,102230.0,117390.0,2014,choreo
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,18140.0,6.6,26.85,55850.0,3.3,10.31,15.63,25.53,34.93,46.56,21450.0,32510.0,53100.0,72640.0,96850.0,2014,fit_trainer
+NY,"New York-Northern New Jersey-Long Island, NY-NJ-PA",39-9032,Recreation Workers,24020.0,6.1,13.82,28750.0,1.3,8.71,9.73,12.33,16.62,21.22,18120.0,20240.0,25650.0,34560.0,44140.0,2014,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1761920.0,0.7,27.58,57370.0,2.9,10.51,13.98,21.65,35.44,53.15,21870.0,29070.0,45040.0,73710.0,110560.0,2014,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,36.48,75870.0,8.3,20.64,30.92,37.23,43.24,49.09,42930.0,64320.0,77430.0,89950.0,102110.0,2014,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,5070.0,8.0,20.0,41590.0,5.3,10.54,12.57,16.2,26.83,34.88,21920.0,26150.0,33700.0,55800.0,72540.0,2014,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3310.0,5.7,13.8,28700.0,1.8,9.67,10.43,11.72,15.16,20.72,20110.0,21690.0,24370.0,31530.0,43090.0,2014,rec_worker
+All,U.S. all,00-0000,All Occupations,137896660.0,0.1,23.23,48320.0,0.1,9.07,11.27,17.4,28.32,44.29,18870.0,23430.0,36200.0,58900.0,92110.0,2015,all_jobs
+All,U.S. all,27-2031,Dancers,10030.0,7.5,18.14,,3.0,8.56,9.35,14.44,23.04,33.03,,,,,,2015,dancer
+All,U.S. all,27-2032,Choreographers,5130.0,8.1,24.79,51560.0,3.7,9.24,13.93,22.09,32.8,45.72,19210.0,28980.0,45940.0,68220.0,95100.0,2015,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,237760.0,1.4,19.7,40970.0,0.8,8.98,11.19,17.39,25.45,33.74,18690.0,23280.0,36160.0,52940.0,70180.0,2015,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,336150.0,1.1,12.79,26610.0,0.4,8.49,9.23,11.21,14.71,19.65,17660.0,19190.0,23320.0,30590.0,40880.0,2015,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,5627380.0,0.3,25.96,54000.0,0.6,9.43,11.7,18.6,32.36,50.88,19610.0,24340.0,38700.0,67310.0,105830.0,2015,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,,,17.04,,8.9,9.56,10.91,14.71,22.55,27.96,,,,,,2015,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,250.0,29.6,23.99,49910.0,9.2,12.64,14.04,20.83,26.25,39.49,26280.0,29200.0,43330.0,54600.0,82130.0,2015,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Fitness Trainers and Aerobics Instructors,8450.0,8.8,24.06,50050.0,3.7,9.86,13.64,22.79,31.09,40.27,20500.0,28380.0,47390.0,64680.0,83770.0,2015,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,17010.0,4.3,13.2,27450.0,1.7,9.26,10.18,12.39,14.83,18.45,19260.0,21160.0,25770.0,30850.0,38380.0,2015,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2186370.0,1.0,32.16,66900.0,1.0,10.67,14.64,24.19,41.61,64.59,22190.0,30440.0,50310.0,86550.0,134350.0,2015,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,340.0,44.9,18.75,,4.2,9.44,12.18,15.53,22.89,33.18,,,,,,2015,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2032,Choreographers,130.0,45.2,40.97,85210.0,8.7,31.5,34.03,38.24,51.19,57.49,65520.0,70770.0,79530.0,106470.0,119580.0,2015,choreo
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Fitness Trainers and Aerobics Instructors,5150.0,9.8,26.08,54250.0,4.6,10.18,13.77,24.28,35.25,46.56,21170.0,28650.0,50510.0,73320.0,96850.0,2015,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,7480.0,11.6,15.9,33060.0,2.0,9.99,11.92,15.32,18.35,23.14,20780.0,24790.0,31860.0,38170.0,48130.0,2015,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4484510.0,0.3,24.81,51600.0,0.8,9.19,11.44,18.39,31.08,47.16,19110.0,23800.0,38250.0,64650.0,98090.0,2015,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,450.0,48.9,22.58,,11.1,10.24,13.12,20.84,26.67,35.97,,,,,,2015,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2032,Choreographers,,,22.06,45880.0,12.7,12.96,19.43,21.51,23.58,32.68,26960.0,40420.0,44730.0,49040.0,67970.0,2015,choreo
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,11260.0,12.9,19.56,40690.0,4.4,9.26,11.44,14.88,25.67,34.49,19260.0,23800.0,30950.0,53400.0,71730.0,2015,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,16860.0,5.2,12.62,26240.0,2.4,8.7,9.17,10.88,14.11,19.25,18110.0,19080.0,22630.0,29340.0,40040.0,2015,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,9046910.0,0.3,28.84,59990.0,0.5,9.37,12.56,21.2,36.11,56.9,19500.0,26120.0,44100.0,75120.0,118360.0,2015,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,650.0,21.8,22.5,,10.5,9.1,13.77,20.48,28.42,37.21,,,,,,2015,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2032,Choreographers,350.0,25.7,34.41,71570.0,7.8,16.73,21.45,31.17,49.33,58.17,34800.0,44620.0,64840.0,102610.0,121000.0,2015,choreo
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,18870.0,5.2,29.98,62370.0,3.2,10.85,17.89,27.79,39.22,53.29,22560.0,37200.0,57810.0,81590.0,110850.0,2015,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,25640.0,5.6,14.43,30010.0,1.7,9.06,10.06,12.85,17.32,22.57,18840.0,20930.0,26740.0,36020.0,46950.0,2015,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1814230.0,0.7,28.39,59060.0,2.8,10.96,14.44,22.27,36.2,54.76,22810.0,30040.0,46330.0,75300.0,113890.0,2015,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,36.25,75410.0,9.1,19.68,31.42,37.37,43.42,47.02,40930.0,65360.0,77730.0,90300.0,97800.0,2015,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,5010.0,8.3,22.58,46960.0,4.4,11.45,14.3,20.59,29.99,36.4,23830.0,29750.0,42830.0,62380.0,75700.0,2015,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3500.0,7.1,14.58,30330.0,2.5,9.87,10.71,12.38,16.48,23.42,20530.0,22270.0,25760.0,34280.0,48700.0,2015,rec_worker
+All,U.S. all,00-0000,All Occupations,140400040.0,0.1,23.86,49630.0,0.1,9.27,11.6,17.81,28.92,45.45,19290.0,24140.0,37040.0,60150.0,94540.0,2016,all_jobs
+All,U.S. all,27-2031,Dancers,10060.0,8.3,18.29,,3.6,8.69,9.37,13.74,22.99,33.34,,,,,,2016,dancer
+All,U.S. all,27-2032,Choreographers,5160.0,7.8,25.77,53610.0,3.6,10.35,15.28,23.19,33.38,45.39,21520.0,31790.0,48240.0,69430.0,94400.0,2016,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,257410.0,1.3,20.57,42780.0,0.8,9.21,11.6,18.34,26.45,35.09,19150.0,24120.0,38160.0,55010.0,72980.0,2016,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,336880.0,1.0,13.09,27230.0,0.3,8.66,9.51,11.48,15.05,20.03,18000.0,19780.0,23870.0,31310.0,41660.0,2016,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,5783690.0,0.4,26.75,55650.0,0.7,10.19,12.11,19.08,32.89,52.04,21190.0,25180.0,39680.0,68420.0,108250.0,2016,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,490.0,28.2,18.6,,9.9,10.16,11.3,16.7,26.14,29.59,,,,,,2016,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,,,26.8,55740.0,15.1,12.3,13.36,15.12,33.67,55.39,25580.0,27790.0,31450.0,70030.0,115210.0,2016,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Fitness Trainers and Aerobics Instructors,8990.0,9.4,24.45,50850.0,3.6,10.11,13.84,22.51,31.09,42.86,21020.0,28780.0,46810.0,64670.0,89140.0,2016,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,17820.0,4.5,13.78,28670.0,1.9,10.01,10.81,12.76,15.27,19.09,20820.0,22490.0,26540.0,31750.0,39720.0,2016,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2263090.0,0.6,33.23,69110.0,0.8,11.43,15.13,24.9,42.5,66.31,23770.0,31480.0,51780.0,88390.0,137920.0,2016,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,300.0,42.0,18.95,,4.0,10.01,12.36,16.06,22.66,30.13,,,,,,2016,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2032,Choreographers,330.0,49.6,41.81,86960.0,8.0,32.88,36.2,40.76,47.88,56.01,68380.0,75290.0,84770.0,99590.0,116500.0,2016,choreo
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Fitness Trainers and Aerobics Instructors,5650.0,8.1,26.12,54340.0,4.7,10.69,13.9,23.57,34.84,48.87,22230.0,28910.0,49030.0,72460.0,101640.0,2016,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,7540.0,9.8,16.32,33950.0,2.4,10.56,12.25,15.68,18.71,23.51,21970.0,25480.0,32620.0,38920.0,48910.0,2016,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4552180.0,0.4,25.63,53320.0,0.9,9.35,11.75,18.93,32.17,48.68,19450.0,24440.0,39380.0,66920.0,101260.0,2016,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,,,24.08,,18.4,10.17,12.2,21.58,27.86,38.46,,,,,,2016,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2032,Choreographers,,,22.47,46730.0,13.9,12.29,18.84,21.82,24.07,34.82,25560.0,39180.0,45390.0,50070.0,72420.0,2016,choreo
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,10970.0,5.8,21.92,45590.0,3.6,9.39,12.12,19.07,28.76,38.83,19520.0,25200.0,39670.0,59830.0,80770.0,2016,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,16970.0,5.4,12.35,25690.0,2.3,8.75,9.14,10.46,13.72,18.82,18210.0,19010.0,21770.0,28540.0,39150.0,2016,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,9169850.0,0.3,29.71,61790.0,0.6,9.59,12.87,21.74,37.01,58.58,19950.0,26760.0,45220.0,76990.0,121850.0,2016,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,740.0,24.0,23.78,,13.0,9.42,13.89,19.0,27.38,37.79,,,,,,2016,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2032,Choreographers,320.0,34.3,36.56,76050.0,8.1,20.02,22.2,32.29,52.59,61.29,41640.0,46170.0,67160.0,109390.0,127470.0,2016,choreo
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,22130.0,6.1,30.79,64050.0,3.3,10.31,19.19,28.61,39.83,54.74,21450.0,39910.0,59500.0,82840.0,113860.0,2016,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,26810.0,5.3,14.77,30720.0,1.3,9.21,10.19,13.09,17.74,23.38,19160.0,21190.0,27220.0,36900.0,48630.0,2016,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1874250.0,1.1,29.41,61170.0,2.5,11.43,14.95,22.91,37.17,56.64,23780.0,31090.0,47650.0,77310.0,117820.0,2016,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,34.41,71570.0,14.8,15.9,23.26,37.8,44.32,48.04,33070.0,48390.0,78620.0,92190.0,99910.0,2016,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,4950.0,13.0,24.57,51110.0,5.2,13.49,16.56,22.63,31.86,37.7,28070.0,34440.0,47070.0,66270.0,78410.0,2016,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3720.0,7.5,15.18,31580.0,2.6,10.29,11.21,13.27,17.18,24.27,21400.0,23310.0,27600.0,35740.0,50470.0,2016,rec_worker
+All,U.S. all,00-0000,All Occupations,142549250.0,0.1,24.34,50620.0,0.1,9.6,11.91,18.12,29.38,46.23,19970.0,24770.0,37690.0,61110.0,96150.0,2017,all_jobs
+All,U.S. all,27-2031,Dancers,9930.0,7.3,17.7,,3.2,8.74,9.66,14.25,22.41,30.95,,,,,,2017,dancer
+All,U.S. all,27-2032,Choreographers,5310.0,8.5,25.47,52970.0,3.4,10.26,15.24,23.28,32.21,44.48,21340.0,31700.0,48420.0,67000.0,92520.0,2017,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,280080.0,1.3,21.02,43720.0,0.7,9.44,12.0,18.85,27.01,35.83,19640.0,24970.0,39210.0,56190.0,74520.0,2017,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,352350.0,1.0,13.44,27950.0,0.4,8.88,9.84,11.8,15.44,20.46,18480.0,20470.0,24540.0,32110.0,42560.0,2017,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,6047050.0,0.3,26.94,56030.0,0.6,10.72,12.33,19.13,32.9,52.4,22310.0,25640.0,39800.0,68440.0,109000.0,2017,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,,,21.4,,15.4,10.95,12.5,19.46,28.47,33.58,,,,,,2017,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,140.0,33.2,23.38,48620.0,24.2,12.53,13.54,15.3,25.49,37.7,26060.0,28160.0,31830.0,53030.0,78430.0,2017,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Fitness Trainers and Aerobics Instructors,9660.0,9.2,23.36,48590.0,3.7,11.33,14.59,21.34,29.33,38.37,23570.0,30340.0,44390.0,61010.0,79800.0,2017,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,18060.0,4.3,14.05,29220.0,2.0,10.36,11.23,13.07,15.5,19.22,21550.0,23350.0,27190.0,32250.0,39970.0,2017,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2369450.0,0.6,33.51,69700.0,1.0,11.8,15.22,24.88,42.66,67.07,24530.0,31660.0,51750.0,88740.0,139510.0,2017,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,220.0,26.3,22.33,,5.5,10.22,13.03,18.41,29.93,38.64,,,,,,2017,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2032,Choreographers,,,44.78,93150.0,3.7,28.57,41.61,46.31,51.72,59.12,59430.0,86540.0,96330.0,107570.0,122980.0,2017,choreo
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Fitness Trainers and Aerobics Instructors,6090.0,7.8,25.73,53520.0,4.9,10.95,13.3,23.31,34.5,47.71,22780.0,27660.0,48480.0,71750.0,99230.0,2017,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,9590.0,15.2,16.98,35330.0,2.7,11.19,13.17,16.58,19.48,23.78,23280.0,27400.0,34490.0,40510.0,49460.0,2017,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4589690.0,0.3,26.04,54160.0,0.8,9.58,12.06,19.23,32.54,48.96,19920.0,25080.0,39990.0,67690.0,101830.0,2017,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,190.0,41.0,,,,,,,,,,,,,,2017,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2032,Choreographers,70.0,19.6,19.54,40650.0,8.7,9.93,13.67,18.79,23.68,31.21,20650.0,28430.0,39080.0,49260.0,64920.0,2017,choreo
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,12950.0,6.8,22.08,45930.0,3.4,9.45,12.02,19.84,29.14,38.37,19650.0,25010.0,41260.0,60620.0,79810.0,2017,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,15020.0,5.1,12.8,26620.0,2.8,8.88,9.31,10.95,14.33,19.37,18460.0,19370.0,22780.0,29810.0,40280.0,2017,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,9302710.0,0.2,30.23,62870.0,0.6,10.05,13.13,22.07,37.54,59.61,20900.0,27310.0,45900.0,78090.0,123990.0,2017,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,790.0,25.1,24.84,,14.1,11.15,14.5,19.88,27.92,41.8,,,,,,2017,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2032,Choreographers,50.0,33.3,42.58,88570.0,11.6,18.95,25.24,29.91,57.64,75.34,39410.0,52500.0,62210.0,119880.0,156710.0,2017,choreo
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,25090.0,6.6,30.54,63520.0,2.6,10.55,18.54,28.8,40.01,52.95,21950.0,38570.0,59910.0,83230.0,110140.0,2017,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,30180.0,5.5,15.67,32600.0,1.4,9.73,11.06,14.19,18.7,24.22,20240.0,23000.0,29510.0,38900.0,50380.0,2017,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1944150.0,1.1,30.35,63120.0,2.4,12.13,15.58,23.5,37.82,58.1,25240.0,32400.0,48890.0,78670.0,120840.0,2017,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,110.0,10.4,,,,,,,,,,,,,,2017,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,,,37.82,78670.0,10.3,20.78,34.29,40.35,46.0,49.36,43220.0,71320.0,83920.0,95690.0,102660.0,2017,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,4710.0,11.9,26.38,54880.0,4.1,13.74,19.2,25.89,32.38,38.78,28580.0,39930.0,53860.0,67350.0,80660.0,2017,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,4050.0,8.6,15.88,33030.0,2.6,11.36,11.89,14.17,17.8,24.05,23630.0,24730.0,29480.0,37030.0,50020.0,2017,rec_worker
+All,U.S. all,00-0000,All Occupations,144733270.0,0.1,24.98,51960.0,0.1,9.95,12.37,18.58,30.06,47.31,20690.0,25740.0,38640.0,62510.0,98410.0,2018,all_jobs
+All,U.S. all,27-2031,Dancers,9720.0,7.4,20.7,,3.0,9.35,10.98,16.31,26.29,40.08,,,,,,2018,dancer
+All,U.S. all,27-2032,Choreographers,5090.0,9.6,25.75,53560.0,3.6,10.26,14.89,22.98,33.06,46.93,21340.0,30970.0,47800.0,68760.0,97620.0,2018,choreo
+All,U.S. all,39-9031,Fitness Trainers and Aerobics Instructors,308470.0,1.2,21.43,44580.0,0.7,9.69,12.39,19.15,27.29,36.58,20160.0,25780.0,39820.0,56760.0,76090.0,2018,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,353570.0,1.0,13.61,28310.0,0.4,8.88,10.13,12.05,15.63,20.52,18470.0,21060.0,25060.0,32510.0,42670.0,2018,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,6118830.0,0.3,27.83,57890.0,0.7,11.29,13.08,19.7,34.05,54.77,23490.0,27210.0,40970.0,70830.0,113910.0,2018,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,250.0,25.3,26.27,,7.6,11.65,23.41,27.79,31.14,36.62,,,,,,2018,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,90.0,19.9,27.44,57080.0,14.1,10.51,13.81,22.37,30.67,52.43,21850.0,28720.0,46520.0,63800.0,109050.0,2018,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Fitness Trainers and Aerobics Instructors,11780.0,7.2,24.83,51640.0,2.8,12.36,17.01,24.29,29.25,38.63,25720.0,35370.0,50520.0,60830.0,80340.0,2018,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,16510.0,4.9,14.76,30700.0,2.1,11.1,11.93,13.88,16.64,19.24,23080.0,24820.0,28870.0,34610.0,40010.0,2018,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2419090.0,0.7,34.81,72400.0,1.1,12.41,15.98,26.0,44.63,69.93,25820.0,33240.0,54090.0,92820.0,145460.0,2018,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,220.0,21.6,22.32,,7.8,10.51,14.01,18.04,29.67,38.76,,,,,,2018,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2032,Choreographers,,,45.41,94440.0,6.7,28.84,42.54,47.19,51.98,59.94,59990.0,88480.0,98160.0,108110.0,124680.0,2018,choreo
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Fitness Trainers and Aerobics Instructors,6780.0,8.4,28.23,58710.0,3.9,11.93,16.41,26.97,36.55,48.73,24810.0,34140.0,56100.0,76020.0,101360.0,2018,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,8130.0,10.5,17.31,36010.0,3.4,11.79,13.39,16.19,20.03,24.33,24520.0,27850.0,33680.0,41670.0,50610.0,2018,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4641830.0,0.4,26.76,55670.0,0.7,9.86,12.6,19.81,33.63,50.17,20500.0,26200.0,41210.0,69940.0,104350.0,2018,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,260.0,34.9,,,,,,,,,,,,,,2018,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2032,Choreographers,40.0,13.1,22.37,46520.0,4.4,10.8,16.95,21.75,27.35,34.66,22460.0,35260.0,45250.0,56900.0,72100.0,2018,choreo
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Fitness Trainers and Aerobics Instructors,14480.0,4.6,23.18,48220.0,3.3,9.48,11.8,21.27,30.24,42.29,19720.0,24540.0,44250.0,62900.0,87970.0,2018,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,13790.0,6.6,12.47,25950.0,1.3,8.95,9.42,10.82,13.73,18.35,18610.0,19600.0,22500.0,28570.0,38170.0,2018,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,9498420.0,0.2,31.04,64550.0,0.6,10.95,13.79,22.64,38.44,60.85,22780.0,28680.0,47080.0,79960.0,126570.0,2018,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,1530.0,19.1,26.55,,9.1,11.59,14.63,19.49,31.08,53.25,,,,,,2018,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2032,Choreographers,70.0,33.8,40.86,84990.0,12.8,17.68,21.4,37.44,59.55,73.45,36780.0,44500.0,77870.0,123870.0,152780.0,2018,choreo
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Fitness Trainers and Aerobics Instructors,27440.0,4.4,30.24,62900.0,2.6,11.34,16.93,28.48,40.48,53.09,23600.0,35200.0,59230.0,84190.0,110430.0,2018,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,29120.0,5.4,15.84,32950.0,1.1,10.41,11.59,14.38,18.56,23.9,21640.0,24100.0,29910.0,38610.0,49720.0,2018,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1984320.0,0.6,31.44,65400.0,2.5,12.77,16.46,24.45,39.13,59.74,26560.0,34240.0,50860.0,81390.0,124250.0,2018,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,150.0,29.8,28.25,,7.1,13.85,24.53,27.98,34.13,42.11,,,,,,2018,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Fitness Trainers and Aerobics Instructors,5560.0,9.3,28.62,59520.0,5.0,15.23,20.08,26.69,34.02,48.4,31690.0,41770.0,55510.0,70760.0,100670.0,2018,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3960.0,8.6,16.46,34230.0,2.0,11.83,12.49,15.45,18.24,23.04,24600.0,25980.0,32140.0,37940.0,47920.0,2018,rec_worker
+All,U.S. all,00-0000,All Occupations,146875480,0.1,25.72,53490.0,0.1,10.35,13.02,19.14,30.88,48.57,21530.0,27080.0,39810.0,64240.0,101020.0,2019,all_jobs
+All,U.S. all,27-2031,Dancers,9690,8.1,22.91,,3.0,10.1,12.05,17.49,27.48,43.41,,,,,,2019,dancer
+All,U.S. all,27-2032,Choreographers,4630,10.5,25.77,53590.0,3.4,10.48,15.3,22.27,31.75,48.9,21800.0,31820.0,46330.0,66040.0,101710.0,2019,choreo
+All,U.S. all,39-9031,Exercise Trainers and Group Fitness Instructors,325500,1.2,21.69,45110.0,0.7,10.15,12.94,19.42,27.63,36.25,21110.0,26910.0,40390.0,57470.0,75400.0,2019,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,358750,1.1,14.1,29330.0,0.4,9.07,10.66,12.67,16.17,21.15,18860.0,22170.0,26350.0,33630.0,44000.0,2019,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4676440,0.4,27.48,57160.0,0.8,10.33,13.36,20.43,34.46,51.51,21480.0,27780.0,42500.0,71680.0,107140.0,2019,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,270,20.2,19.31,,9.9,9.29,11.42,17.02,20.39,36.01,,,,,,2019,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2032,Choreographers,110,42.5,,,,,,,,,,,,,,2019,choreo
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Exercise Trainers and Group Fitness Instructors,14360,6.9,24.11,50150.0,3.0,9.9,13.01,22.83,30.58,43.08,20590.0,27060.0,47480.0,63610.0,89610.0,2019,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,12940,4.6,13.48,28050.0,1.2,9.19,9.92,11.81,14.97,20.04,19110.0,20640.0,24570.0,31140.0,41680.0,2019,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,6239690,0.3,28.74,59770.0,0.7,11.92,13.92,20.52,35.34,56.74,24790.0,28960.0,42680.0,73500.0,118010.0,2019,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,310,9.2,25.69,,8.3,13.27,17.95,27.37,31.77,36.97,,,,,,2019,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,130,33.9,36.43,75770.0,16.0,12.69,20.69,34.81,54.68,59.31,26400.0,43020.0,72400.0,113740.0,123350.0,2019,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Exercise Trainers and Group Fitness Instructors,13940,8.6,24.24,50430.0,4.0,12.58,14.86,23.73,29.62,36.65,26160.0,30910.0,49370.0,61620.0,76240.0,2019,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,16710,3.8,15.46,32150.0,2.0,11.8,12.73,14.6,17.38,19.82,24530.0,26480.0,30360.0,36160.0,41220.0,2019,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,9655330,0.3,32.11,66790.0,0.5,11.76,14.77,23.48,39.79,62.6,24470.0,30720.0,48840.0,82770.0,130210.0,2019,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,1590,19.9,28.27,,9.4,11.97,15.12,22.79,37.04,56.34,,,,,,2019,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Exercise Trainers and Group Fitness Instructors,26740,5.2,29.78,61940.0,2.4,12.45,17.18,27.9,39.01,52.7,25890.0,35730.0,58020.0,81140.0,109620.0,2019,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,30430,5.2,16.41,34130.0,1.2,11.17,12.44,15.04,18.84,24.36,23230.0,25880.0,31270.0,39190.0,50680.0,2019,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2472110,0.7,36.49,75890.0,1.1,13.26,17.22,27.42,47.06,73.34,27580.0,35830.0,57040.0,97890.0,152550.0,2019,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,610,48.9,22.36,,22.9,13.72,15.61,17.15,18.69,43.62,,,,,,2019,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Exercise Trainers and Group Fitness Instructors,6890,9.7,28.53,59340.0,4.1,12.44,17.08,28.18,35.75,47.22,25870.0,35520.0,58620.0,74360.0,98220.0,2019,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,8150,14.7,17.54,36490.0,3.9,12.34,13.65,16.2,20.2,24.85,25670.0,28390.0,33690.0,42020.0,51680.0,2019,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,2020930,0.7,32.91,68460.0,2.5,13.74,17.32,25.65,41.25,63.0,28570.0,36020.0,53360.0,85800.0,131030.0,2019,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,140,27.9,28.43,,7.7,13.89,24.75,28.38,34.45,42.7,,,,,,2019,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Exercise Trainers and Group Fitness Instructors,6610,9.7,29.08,60490.0,5.0,16.13,20.82,27.43,33.09,47.99,33550.0,43310.0,57050.0,68820.0,99830.0,2019,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3910,8.5,17.14,35660.0,1.5,12.42,13.56,16.22,18.75,23.82,25840.0,28210.0,33730.0,39010.0,49540.0,2019,rec_worker
+All,U.S. all,00-0000,All Occupations,139099570.0,0.1,27.07,56310.0,0.1,10.97,13.95,20.17,32.41,50.99,22810.0,29020.0,41950.0,67410.0,106050.0,2020,all_jobs
+All,U.S. all,27-2031,Dancers,7370.0,8.0,25.08,,3.3,11.68,13.77,18.58,29.21,48.76,,,,,,2020,dancer
+All,U.S. all,27-2032,Choreographers,3580.0,11.6,25.0,52000.0,4.4,10.18,14.14,21.0,30.33,48.68,21180.0,29420.0,43680.0,63080.0,101250.0,2020,choreo
+All,U.S. all,39-9031,Exercise Trainers and Group Fitness Instructors,248070.0,1.5,21.95,45650.0,0.7,10.4,13.38,19.48,27.64,36.81,21640.0,27840.0,40510.0,57490.0,76550.0,2020,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,325640.0,1.5,14.88,30960.0,0.6,9.38,11.26,13.67,17.12,22.36,19510.0,23420.0,28440.0,35620.0,46510.0,2020,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4362110.0,0.4,29.01,60340.0,0.8,11.03,14.34,21.84,36.33,54.29,22930.0,29830.0,45420.0,75560.0,112930.0,2020,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",27-2031,Dancers,190.0,37.9,20.14,,10.3,15.57,16.46,17.91,19.36,34.75,,,,,,2020,dancer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Exercise Trainers and Group Fitness Instructors,10090.0,6.9,23.87,49650.0,2.9,10.11,13.1,21.84,30.42,43.05,21030.0,27250.0,45440.0,63270.0,89550.0,2020,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,10790.0,4.7,14.38,29920.0,1.2,9.53,10.47,12.62,15.94,21.92,19820.0,21780.0,26250.0,33160.0,45590.0,2020,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,5822510.0,0.3,30.61,63660.0,0.7,13.24,14.94,21.9,37.76,60.2,27530.0,31080.0,45550.0,78540.0,125220.0,2020,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,110.0,35.3,20.34,,7.7,13.2,14.12,16.93,22.49,32.35,,,,,,2020,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,,,43.93,91380.0,12.8,13.01,25.19,53.05,58.33,61.49,27060.0,52400.0,110330.0,121320.0,127900.0,2020,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Exercise Trainers and Group Fitness Instructors,10980.0,9.3,25.74,53540.0,4.0,13.66,15.63,24.86,31.19,39.57,28400.0,32500.0,51710.0,64870.0,82320.0,2020,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,19070.0,16.3,17.28,35940.0,2.1,13.25,14.25,16.2,19.39,23.44,27550.0,29650.0,33690.0,40330.0,48760.0,2020,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,8834370.0,0.3,34.16,71050.0,0.6,12.57,15.93,25.01,42.44,66.44,26140.0,33140.0,52020.0,88270.0,138190.0,2020,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,1360.0,20.0,29.81,,7.5,12.43,15.9,24.86,38.82,58.21,,,,,,2020,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Exercise Trainers and Group Fitness Instructors,17550.0,7.6,28.21,58680.0,4.0,12.78,15.45,26.12,35.31,50.69,26580.0,32130.0,54330.0,73440.0,105440.0,2020,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,25820.0,7.4,17.06,35490.0,1.3,11.9,12.96,15.57,19.29,25.16,24750.0,26950.0,32380.0,40110.0,52340.0,2020,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2330800.0,0.7,39.35,81840.0,0.9,14.62,18.61,29.71,50.75,78.59,30420.0,38720.0,61790.0,105570.0,163460.0,2020,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,710.0,41.8,22.22,,7.6,15.43,16.37,17.95,20.89,39.91,,,,,,2020,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Exercise Trainers and Group Fitness Instructors,5920.0,12.1,30.26,62930.0,3.5,14.88,24.32,29.76,35.06,45.34,30960.0,50590.0,61900.0,72930.0,94310.0,2020,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,6780.0,15.5,18.24,37940.0,3.6,13.37,14.3,16.04,20.12,26.03,27800.0,29740.0,33360.0,41850.0,54140.0,2020,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1955810.0,0.8,35.74,74330.0,2.9,14.98,18.49,28.04,45.65,68.3,31170.0,38460.0,58330.0,94960.0,142070.0,2020,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2031,Dancers,90.0,29.4,31.0,,6.2,20.1,26.57,29.82,36.69,44.81,,,,,,2020,dancer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Exercise Trainers and Group Fitness Instructors,5570.0,10.9,28.6,59500.0,7.8,14.78,18.56,26.1,33.13,50.38,30740.0,38610.0,54280.0,68900.0,104790.0,2020,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,3500.0,8.5,18.79,39080.0,3.3,13.86,14.84,17.11,19.88,26.03,28840.0,30870.0,35590.0,41350.0,54150.0,2020,rec_worker
+All,U.S. all,00-0000,All Occupations,140886310.0,0.0,28.01,58260.0,0.1,11.53,14.4,22.0,32.98,49.43,23980.0,29950.0,45760.0,68590.0,102810.0,2021,all_jobs
+All,U.S. all,27-2031,Dancers,3850.0,11.1,24.49,,5.4,10.03,14.0,18.78,29.29,47.62,,,,,,2021,dancer
+All,U.S. all,27-2032,Choreographers,3990.0,12.0,23.86,49630.0,6.3,10.65,14.33,20.53,29.69,37.52,22150.0,29800.0,42700.0,61750.0,78030.0,2021,choreo
+All,U.S. all,39-9031,Exercise Trainers and Group Fitness Instructors,221600.0,1.6,22.05,45870.0,1.0,11.04,14.22,19.57,27.77,36.51,22960.0,29580.0,40700.0,57760.0,75940.0,2021,fit_trainer
+All,U.S. all,39-9032,Recreation Workers,264020.0,1.0,15.39,32020.0,0.4,10.45,11.7,14.27,17.59,22.43,21730.0,24330.0,29680.0,36580.0,46660.0,2021,rec_worker
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",00-0000,All Occupations,4232830.0,0.0,29.74,61860.0,0.3,12.85,14.61,22.74,37.24,52.55,26720.0,30380.0,47300.0,77450.0,109300.0,2021,all_jobs
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9031,Exercise Trainers and Group Fitness Instructors,9940.0,9.9,24.31,50550.0,5.9,11.28,14.68,22.61,29.13,37.61,23470.0,30540.0,47030.0,60600.0,78230.0,2021,fit_trainer
+Chicago,"Chicago-Naperville-Elgin, IL-IN-WI",39-9032,Recreation Workers,7980.0,9.4,15.65,32560.0,1.9,11.22,12.23,14.33,17.49,22.42,23340.0,25430.0,29810.0,36380.0,46640.0,2021,rec_worker
+LA,"Los Angeles-Long Beach-Anaheim, CA",00-0000,All Occupations,5719620.0,0.0,31.7,65930.0,0.4,14.33,15.12,22.87,37.81,61.39,29810.0,31450.0,47580.0,78630.0,127690.0,2021,all_jobs
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2031,Dancers,270.0,30.7,18.97,,6.8,14.0,14.61,20.95,23.22,24.38,,,,,,2021,dancer
+LA,"Los Angeles-Long Beach-Anaheim, CA",27-2032,Choreographers,70.0,48.6,30.41,63250.0,11.7,19.78,19.78,36.86,36.86,36.88,41140.0,41140.0,76660.0,76660.0,76700.0,2021,choreo
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9031,Exercise Trainers and Group Fitness Instructors,8290.0,13.5,25.09,52180.0,5.3,14.47,14.82,23.44,30.56,37.66,30090.0,30820.0,48760.0,63560.0,78320.0,2021,fit_trainer
+LA,"Los Angeles-Long Beach-Anaheim, CA",39-9032,Recreation Workers,13250.0,5.7,16.73,34800.0,0.7,14.31,14.44,14.76,17.56,22.06,29760.0,30040.0,30700.0,36530.0,45890.0,2021,rec_worker
+NY,"New York-Newark-Jersey City, NY-NJ-PA",00-0000,All Occupations,8678110.0,0.0,35.65,74150.0,0.2,14.1,17.69,26.83,46.33,63.88,29330.0,36790.0,55810.0,96370.0,132870.0,2021,all_jobs
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2031,Dancers,830.0,22.0,33.93,,11.1,15.99,17.74,29.29,43.31,61.52,,,,,,2021,dancer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",27-2032,Choreographers,,,45.63,94910.0,25.7,18.59,29.77,37.52,47.48,76.98,38670.0,61930.0,78030.0,98750.0,160110.0,2021,choreo
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9031,Exercise Trainers and Group Fitness Instructors,14170.0,6.8,31.11,64700.0,3.2,14.33,18.29,28.9,37.65,47.87,29810.0,38050.0,60100.0,78320.0,99570.0,2021,fit_trainer
+NY,"New York-Newark-Jersey City, NY-NJ-PA",39-9032,Recreation Workers,17670.0,6.2,18.28,38020.0,1.3,13.23,14.16,17.51,21.85,25.46,27510.0,29460.0,36420.0,45460.0,52950.0,2021,rec_worker
+SanFran,"San Francisco-Oakland-Hayward, CA",00-0000,All Occupations,2242190.0,0.0,41.63,86590.0,0.5,16.97,20.4,29.81,55.33,79.63,35290.0,42430.0,62000.0,115090.0,165620.0,2021,all_jobs
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2031,Dancers,200.0,23.3,32.43,,18.7,14.77,17.74,24.15,46.59,58.73,,,,,,2021,dancer
+SanFran,"San Francisco-Oakland-Hayward, CA",27-2032,Choreographers,60.0,42.5,38.35,79760.0,11.1,22.79,26.08,42.47,42.48,47.7,47410.0,54240.0,88340.0,88350.0,99220.0,2021,choreo
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9031,Exercise Trainers and Group Fitness Instructors,3890.0,7.7,32.76,68140.0,6.2,16.51,22.66,30.72,38.33,49.73,34330.0,47130.0,63910.0,79730.0,103430.0,2021,fit_trainer
+SanFran,"San Francisco-Oakland-Hayward, CA",39-9032,Recreation Workers,6280.0,19.1,18.58,38640.0,4.7,14.4,14.45,17.13,19.92,23.32,29950.0,30050.0,35620.0,41420.0,48510.0,2021,rec_worker
+Seattle,"Seattle-Tacoma-Bellevue, WA",00-0000,All Occupations,1917560.0,0.0,36.62,76170.0,0.5,16.58,18.59,28.96,47.35,70.77,34480.0,38660.0,60230.0,98500.0,147200.0,2021,all_jobs
+Seattle,"Seattle-Tacoma-Bellevue, WA",27-2032,Choreographers,80.0,40.7,28.12,58490.0,13.2,23.59,23.59,30.06,30.06,30.93,49070.0,49070.0,62530.0,62530.0,64330.0,2021,choreo
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9031,Exercise Trainers and Group Fitness Instructors,4840.0,6.7,26.67,55480.0,4.3,14.86,20.38,24.46,29.1,37.64,30900.0,42380.0,50870.0,60530.0,78280.0,2021,fit_trainer
+Seattle,"Seattle-Tacoma-Bellevue, WA",39-9032,Recreation Workers,2070.0,7.0,19.32,40180.0,1.1,14.74,16.07,17.74,22.13,27.28,30660.0,33430.0,36900.0,46040.0,56730.0,2021,rec_worker
